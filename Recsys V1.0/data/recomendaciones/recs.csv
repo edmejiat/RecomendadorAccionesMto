@@ -1,0 +1,66 @@
+,id,equipo,posicion_medida,valor_medido,fecha,texto_fallas,perfil_catalogo,recomendaciones
+0,MjAwNjY4NjIzMDA1MjAyMQ==,2006686,EQUIPO TOTAL,2,30/05/2021,/2-OIL.TAP=DIAG,1-TRAAMO,No Recomendaciones
+1,MjAwMDgyMjI4MDUyMDIx,200082,EQUIPO TOTAL,2,28/05/2021,/2-INSP=2-PRO-M/3-CUB/,1-TRAATR,"'aplicar sikaflex 1a protecciones mecanic', 'aplicar sikaflex 1a protecciones mecanic'"
+2,MjAzOTI2MjI4MDUyMDIx,203926,EQUIPO TOTAL,2,28/05/2021,/2-OIL.TAP=DIAG,1-TRAAMO,No Recomendaciones
+3,MjAzOTMwMjI4MDUyMDIx,203930,EQUIPO TOTAL,2,28/05/2021,/2-OIL.TAP=DIAG,1-TRAAMO,No Recomendaciones
+4,ODEwNTUxMjI4MDUyMDIx,810551,EQUIPO TOTAL,2,28/05/2021,/8-OIL.TAP//2-INSP=3-ENF/2-CUB/3-P.CUB/,1-TRAATR,"'corregir fuga aceite', 'corregir fuga aceite'"
+5,MTExOTg4MjI3MDUyMDIx,111988,REACTOR TOTAL,2,27/05/2021,/2-INSP=2-PRO-M/9-GAB/8-BUJ/,1-REAAMO,"'aplicar sikaflex 1a protecciones mecanic', 'aplicar sikaflex 1a protecciones mecanic'"
+6,MjAwMDIzNjIyNzA1MjAyMQ==,2000236,REACTOR TOTAL,2,27/05/2021,/2-INSP=9-ENF/2-PRO-M/9-GAB/8-BUJ/,1-REAAMO,"'aplicar sikaflex 1a protecciones mecanic', 'aplicar sikaflex 1a protecciones mecanic'"
+7,MjAxMTY3NzIyNzA1MjAyMQ==,2011677,EQUIPO TOTAL,2,27/05/2021,/9-OIL.CORR//2-INSP=9-ENF/2-PRO-M/8-GAB/8-BUJ/,1-REAAMO,"'realizar analisis aceite', 'realizar analisis aceite'"
+8,MjAxMTY4MTIyNzA1MjAyMQ==,2011681,EQUIPO TOTAL,2,27/05/2021,/9-OIL.CORR//2-INSP=9-ENF/2-PRO-M/3-CUB/8-GAB/8-BUJ/,1-REAAMO,"'aplicar sikaflex 1a protecciones mecanic', 'aplicar sikaflex 1a protecciones mecanic'"
+9,MTExMDczMjI3MDUyMDIx,111073,REACTOR TOTAL,2,27/05/2021,/2-INSP=3-ENF/2-CUB/9-GAB/8-BUJ/,1-REAAMO,"'aplicar sikaflex 1a protecciones mecanic', 'aplicar sikaflex 1a protecciones mecanic'"
+10,MTExOTg5MjI3MDUyMDIx,111989,REACTOR TOTAL,2,27/05/2021,/2-INSP=2-PRO-M/3-CUB/9-GAB/8-BUJ/,1-REAAMO,"'cambiar silica gel', 'cambiar silica gel'"
+11,MTE2Njg4MjI3MDUyMDIx,116688,REACTOR TOTAL,2,27/05/2021,/2-INSP=2-CUB/9-GAB/8-BUJ/,1-REAAMO,"'montar borneras seccionables en pm', 'montar borneras seccionables en pm'"
+12,MTMzMDM3MjI3MDUyMDIx,133037,REACTOR TOTAL,2,27/05/2021,/2-INSP=2-ENF/9-GAB/8-BUJ/,1-REAAMO,"'aplicar sikaflex 1a protecciones mecanic', 'aplicar sikaflex 1a protecciones mecanic'"
+13,MTE4NDI1MjI3MDUyMDIx,118425,REACTOR TOTAL,2,27/05/2021,/2-INSP=2-PRO-M/3-CUB/9-GAB/8-BUJ/,1-REAAMO,"'cambiar silica gel', 'cambiar silica gel'"
+14,MTA5MzU4MjI3MDUyMDIx,109358,REACTOR TOTAL,2,27/05/2021,2-DGA=DP/(C)//2-HUM=DELTA//9-OIL.CORR//2-INSP=8-ENF/2-PRO-M/8-CUB/8-GAB/8-BUJ/,1-REAAMO,"'aplicar sikaflex 1a protecciones mecanic', 'aplicar sikaflex 1a protecciones mecanic', 'aplicar sikaflex 1a protecciones mecanic', 'ptbo'"
+15,MTIwODY2MjI3MDUyMDIx,120866,REACTOR TOTAL,2,27/05/2021,/2-INSP=2-PRO-M/8-CUB/9-GAB/8-BUJ/,1-REAATR,"'aplicar sikaflex 1a protecciones mecanic', 'aplicar sikaflex 1a protecciones mecanic'"
+16,MTE5MDM5MjI2MDUyMDIx,119039,EQUIPO TOTAL,2,26/05/2021,/2-INSP=2-ENF/,1-TRAAMO,"'aplicar sikaflex 1a protecciones mecanic', 'aplicar sikaflex 1a protecciones mecanic'"
+17,ODA3ODMzMjI2MDUyMDIx,807833,EQUIPO TOTAL,2,26/05/2021,/2-OIL=DIEL.PF//9-OIL.TAP/,1-TRAATR,'adicionar irgamet39 a 100ppm'
+18,ODEwNDUwMjI2MDUyMDIx,810450,EQUIPO TOTAL,2,26/05/2021,/2-INSP=9-ENF/2-M.OLTC/2-CUB/2-BUJ/3-P.CUB/,1-TRAAMO,"'diagnosticar alcance overhaul', 'diagnosticar alcance overhaul'"
+19,ODEwNDUxMjI2MDUyMDIx,810451,EQUIPO TOTAL,2,26/05/2021,/2-INSP=9-ENF/3-CUB/2-BUJ/3-P.CUB/,1-TRAAMO,"'seguimiento generacion anormal de gases', 'seguimiento generacion anormal de gases'"
+20,MjAxMDI0MDIyNTA1MjAyMQ==,2010240,EQUIPO TOTAL,2,25/05/2021,/9-OIL.CORR//2-INSP=2-PRO-M/8-GAB/8-BUJ/,1-REAAMO,"'aplicar sikaflex 1a protecciones mecanic', 'aplicar sikaflex 1a protecciones mecanic'"
+21,MTExNTY2MjI1MDUyMDIx,111566,REACTOR TOTAL,2,25/05/2021,/2-INSP=2-ENF/9-GAB/8-BUJ/,1-REAAMO,"'aplicar sikaflex 1a protecciones mecanic', 'aplicar sikaflex 1a protecciones mecanic'"
+22,ODA5MzY1MTIzMDUyMDIx,809365,EQUIPO TOTAL,1,23/05/2021,/1-OIL=DIEL.PF//9-OIL.TAP//2-INSP=2-M.OLTC/3-CUB/2-BUJ/,1-TRAATR,"'realizar analisis aceite', 'realizar analisis aceite', 'equipo cuestionado'"
+23,ODA5MzcyMjIzMDUyMDIx,809372,EQUIPO TOTAL,2,23/05/2021,/9-OIL.TAP//2-INSP=2-M.OLTC/3-CUB/,1-TRAATR,"'realizar analisis aceite', 'realizar analisis aceite'"
+24,ODA4Nzc5MjIxMDUyMDIx,808779,EQUIPO TOTAL,2,21/05/2021,/2-OIL=DIEL//9-OIL.TAP/,1-TRAATR,'adicionar irgamet39 a 100ppm'
+25,MjAwNjAxNDIyMTA1MjAyMQ==,2006014,EQUIPO TOTAL,2,21/05/2021,7-DGA=7-T.ACE/7-T.PAP/7-PD/7-ARC//2-INSP=2-M.OLTC/3-CUB/2-BUJ/,1-TRAATR,"'realizar analisis aceite', 'realizar analisis aceite'"
+26,MjAxMDIyNTIxMDA1MjAyMQ==,2010225,EQUIPO TOTAL,2,10/05/2021,/2-INSP=9-ENF/2-PRO-M/9-CUB/9-BUJ/9-P.CUB/,1-TRAAMO,"'realizar pasivador irgamet 39', 'realizar pasivador irgamet 39'"
+27,ODEwMDU3MjA3MDUyMDIx,810057,EQUIPO TOTAL,2,07/05/2021,2-DGA=T-ACE(D)/T-PAP(S)//9-OIL.TAP//2-INSP=2-M.OLTC/3-CUB/,1-TRAATR,"'seguimiento generacion anormal de gases', 'realizar analisis aceite', 'realizar analisis aceite'"
+28,MjAwNzg2MjA3MDUyMDIx,200786,EQUIPO TOTAL,2,07/05/2021,2-DGA=T-ACE(D)/T-PAP(S)//3-OIL.TAP=DIAG//3-INSP=3-ENF/3-PRO-M/3-P.CUB/,1-TRAATR,"'seguimiento generacion anormal de gases', 'medir aislamiento protecciones mecanicas', 'medir aislamiento protecciones mecanicas'"
+29,ODA5NTgyMjA3MDUyMDIx,809582,EQUIPO TOTAL,2,07/05/2021,7-DGA=7-T.ACE/7-T.PAP/7-PD/7-ARC//8-OIL.TAP//2-INSP=9-ENF/2-PRO-M/3-CUB/3-P.CUB/,1-TRAATR,"'medir aislamiento protecciones mecanicas', 'medir aislamiento protecciones mecanicas'"
+30,MjAwMDQwNzIwNTA1MjAyMQ==,2000407,EQUIPO TOTAL,2,05/05/2021,/8-OIL.TAP//2-INSP=2-ENF/,1-TRAATR,"'efectuar prueba de descargas parciales', 'efectuar prueba de descargas parciales'"
+31,ODExMDA4MjAzMDUyMDIx,811008,EQUIPO TOTAL,2,03/05/2021,7-DGA=7-T.ACE/7-T.PAP/7-PD/7-ARC//2-OIL.TAP=DIAG//5-INSP=8-P.CUB/,1-TRAAMO,No Recomendaciones
+32,ODA5ODczMjAxMDUyMDIx,809873,EQUIPO TOTAL,2,01/05/2021,/9-OIL.TAP//2-INSP=3-ENF/2-CUB/,1-TRAATR,"'corregir fuga aceite', 'corregir fuga aceite'"
+33,MjAwNTk3MjMwMDQyMDIx,200597,EQUIPO TOTAL,2,30/04/2021,/2-OIL=DIEL.PF//3-HUM_PAP=NO.EQ/WHRT//2-OIL.TAP=DIAG//2-INSP=2-PRO-M/,1-TRAATR,"'aplicar sikaflex 1a protecciones mecanic', 'aplicar sikaflex 1a protecciones mecanic', 'aplicar sikaflex 1a protecciones mecanic', 'adicionar irgamet39 a 100ppm'"
+34,MjAyNDk0MjI4MDQyMDIx,202494,EQUIPO TOTAL,2,28/04/2021,2-DGA=T-ACE(D)//9-OIL.TAP/,1-TRAATR,'seguimiento generacion anormal de gases'
+35,MjAxNDQ3MjI4MDQyMDIx,201447,EQUIPO TOTAL,2,28/04/2021,/2-INSP=2-PRO-M/3-CUB/,1-TRAAMO,"'realizar analisis aceite', 'realizar analisis aceite'"
+36,MjAwNTY3MDIyODA0MjAyMQ==,2005670,EQUIPO TOTAL,2,28/04/2021,/2-INSP=2-ENF/,1-TRAAMO,"'aplicar sikaflex 1a protecciones mecanic', 'aplicar sikaflex 1a protecciones mecanic'"
+37,MjAxNDQ1MjI4MDQyMDIx,201445,EQUIPO TOTAL,2,28/04/2021,/2-INSP=2-PRO-M/2-CUB/,1-TRAAMO,"'realizar analisis aceite', 'realizar analisis aceite'"
+38,MjAyMjc5MTI1MDQyMDIx,202279,EQUIPO TOTAL,1,25/04/2021,1-DGA=ARC(C)//3-OIL.TAP=DIAG//2-INSP=2-M.OLTC/3-P.CUB/,1-TRAAMO,"'aplicar sikaflex 1a protecciones mecanic', 'realizar analisis aceite', 'realizar analisis aceite'"
+39,MTExMTA0MjE5MDQyMDIx,111104,EQUIPO TOTAL,2,19/04/2021,/2-INSP=2-PRO-M/,1-TRAAMO,"'aplicar sikaflex 1a protecciones mecanic', 'aplicar sikaflex 1a protecciones mecanic'"
+40,MTE1MDkxMjE5MDQyMDIx,115091,EQUIPO TOTAL,2,19/04/2021,/2-INSP=2-PRO-M/,1-TRAAMO,"'aplicar sikaflex 1a protecciones mecanic', 'aplicar sikaflex 1a protecciones mecanic'"
+41,MTE2MTQzMTE5MDQyMDIx,116143,EQUIPO TOTAL,1,19/04/2021,/1-OIL.TAP=DELTA/,1-TRAAMO,No Recomendaciones
+42,MTE2MTQ0MTE5MDQyMDIx,116144,EQUIPO TOTAL,1,19/04/2021,/1-OIL.TAP=DELTA//5-INSP=8-CUB/,1-TRAAMO,No Recomendaciones
+43,MTE4NDg3MTE5MDQyMDIx,118487,EQUIPO TOTAL,1,19/04/2021,3-DGA=T-PAP(S)//1-OIL.TAP=DELTA/,1-TRAAMO,'aplicar sikaflex 1a protecciones mecanic'
+44,MTExNDMzMjE5MDQyMDIx,111433,EQUIPO TOTAL,2,19/04/2021,/2-OIL=DIEL.PF//6-HUM//6-HUM_PAP/,1-TRAAMO,'aplicar sikaflex 1a protecciones mecanic'
+45,MTM2NTg5MjE5MDQyMDIx,136589,EQUIPO TOTAL,2,19/04/2021,2-DGA=T-ACE(C)//3-INSP=3-ENF/3-CUB//,1-TRAAMO,"'aplicar sikaflex 1a protecciones mecanic', 'aplicar sikaflex 1a protecciones mecanic', 'aplicar sikaflex 1a protecciones mecanic'"
+46,MTM2NTg4MjE5MDQyMDIx,136588,EQUIPO TOTAL,2,19/04/2021,/2-OIL=DIEL//2-OIL.TAP=DIAG//3-INSP=3-M.OLTC/,1-TRAAMO,"'cambiar ventilador fallado', 'cambiar ventilador fallado', 'aplicar sikaflex 1a protecciones mecanic'"
+47,ODA5ODcyMjA4MDQyMDIx,809872,EQUIPO TOTAL,2,08/04/2021,2-DGA=ARC(I)//9-OIL.TAP//5-INSP=8-P.CUB/,1-TRAATR,'seguimiento generacion anormal de gases'
+48,MTIzMTgxMjI2MDMyMDIx,123181,REACTOR TOTAL,2,26/03/2021,/2-INSP=2-PRO-M/9-GAB/8-BUJ/,1-REAAMO,"'aplicar sikaflex 1a protecciones mecanic', 'aplicar sikaflex 1a protecciones mecanic'"
+49,MTIzMTc4MjI2MDMyMDIx,123178,REACTOR TOTAL,2,26/03/2021,/2-INSP=2-PRO-M/9-GAB/8-BUJ/,1-REAAMO,"'aplicar sikaflex 1a protecciones mecanic', 'aplicar sikaflex 1a protecciones mecanic'"
+50,MjAwNTQ4MjEyMDMyMDIx,200548,EQUIPO TOTAL,2,12/03/2021,/3-OIL=DIEL//2-INSP=2-PRO-M/,1-TRAATR,"'aplicar sikaflex 1a protecciones mecanic', 'aplicar sikaflex 1a protecciones mecanic', 'aplicar sikaflex 1a protecciones mecanic'"
+51,MTE3Mjc0MjA0MDMyMDIx,117274,REACTOR TOTAL,2,04/03/2021,/2-INSP=9-ENF/2-PRO-M/2-CUB/9-GAB/8-BUJ/,1-REAAMO,"'aplicar sikaflex 1a protecciones mecanic', 'aplicar sikaflex 1a protecciones mecanic'"
+52,MTE4NDIzMjE4MDIyMDIx,118423,REACTOR TOTAL,2,18/02/2021,/2-INSP=2-PRO-M/2-CUB/9-GAB/8-BUJ/,1-REAAMO,"'adicionar irgamet39 a 100ppm', 'adicionar irgamet39 a 100ppm'"
+53,MTE4NDI0MjE4MDIyMDIx,118424,REACTOR TOTAL,2,18/02/2021,/2-INSP=2-PRO-M/3-CUB/9-GAB/8-BUJ/,1-REAAMO,"'cambiar silica gel', 'cambiar silica gel'"
+54,ODA4OTk3MTA5MDIyMDIx,808997,EQUIPO TOTAL,1,09/02/2021,1-DGA=T-ACE(D)/DP(D)//9-OIL.TAP//3-INSP=9-CUB/3-BUJ/,1-TRAATR,"'seguimiento generacion anormal de gases', 'engomado equipos de la bahia', 'engomado equipos de la bahia'"
+55,NDAwMDM5MjA5MDIyMDIx,400039,EQUIPO TOTAL,2,09/02/2021,/2-INSP=2-PRO-M/3-M.OLTC/3-CUB/3-P.CUB/,1-TRAATR,"'realizar analisis aceite', 'realizar analisis aceite'"
+56,MjAwOTYyNTIwODAyMjAyMQ==,2009625,EQUIPO TOTAL,2,08/02/2021,/9-OIL.CORR//2-INSP=9-ENF/2-PRO-M/8-GAB/8-BUJ/,1-REAAMO,"'realizar analisis aceite', 'realizar analisis aceite'"
+57,MjAxMTY5MjIwMTIyMDIw,201169,EQUIPO TOTAL,2,20/12/2020,/3-HUM_PAP=NO.EQ//2-INSP=9-ENF/2-PRO-M/9-CUB/9-P.CUB/,1-TRAAMO,"'adicionar irgamet39 a 100ppm', 'aplicar sikaflex 1a protecciones mecanic', 'aplicar sikaflex 1a protecciones mecanic'"
+58,MjAwOTYyODIxOTEyMjAyMA==,2009628,EQUIPO TOTAL,2,19/12/2020,/9-OIL=9-FQ/9-DIE//9-HUM//9-OIL.CORR//2-INSP=9-ENF/2-PRO-M/8-GAB/8-BUJ/,1-REAAMO,"'realizar analisis aceite', 'realizar analisis aceite'"
+59,MjAwOTYyNjIxOTEyMjAyMA==,2009626,EQUIPO TOTAL,2,19/12/2020,/9-OIL.CORR//2-INSP=9-ENF/2-PRO-M/8-GAB/8-BUJ/,1-REAAMO,"'realizar analisis aceite', 'realizar analisis aceite'"
+60,ODEwNDQ5MjMwMTAyMDIw,810449,EQUIPO TOTAL,2,30/10/2020,/2-INSP=9-ENF/2-PRO-M/2-CUB/3-P.CUB/,1-TRAAMO,"'engomado equipos de la bahia', 'engomado equipos de la bahia'"
+61,MTE3MjcyMjMwMTAyMDIw,117272,REACTOR TOTAL,2,30/10/2020,/2-INSP=9-ENF/2-PRO-M/3-CUB/9-GAB/8-BUJ/,1-REAAMO,"'aplicar sikaflex 1a protecciones mecanic', 'aplicar sikaflex 1a protecciones mecanic'"
+62,MTE3MjczMjMwMTAyMDIw,117273,REACTOR TOTAL,2,30/10/2020,/2-INSP=9-ENF/2-PRO-M/9-GAB/8-BUJ/,1-REAAMO,"'aplicar sikaflex 1a protecciones mecanic', 'aplicar sikaflex 1a protecciones mecanic'"
+63,MjAwNTMxMDIyMDEwMjAyMA==,2005310,EQUIPO TOTAL,2,20/10/2020,/2-HUM=DELTA//9-OIL.CORR//5-INSP=9-GAB/8-BUJ/,1-REAAMO,'ptbo'
+64,MjAwNjQ3MjEzMTEyMDE0,200647,AUTOTRAFO TOTAL,2,13/11/2014,/6-HUM//6-HUM_PAP//2-INSP=2-M.OLTC/,1-TRAAMO,"'adicionar irgamet39 a 100ppm', 'adicionar irgamet39 a 100ppm'"
