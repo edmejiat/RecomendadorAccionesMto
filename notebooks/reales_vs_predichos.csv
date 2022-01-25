@@ -1,0 +1,628 @@
+real;predicho;Equipo;;;;;;;;;;;;;;;;;;;;;;
+0;1;2;3;4;5;6;7;8;9;10;11;12;13;14;15;16;17;18;19;20;21;22;23;24
+revisar/cambiar motoventilador;revisar/cambiar motoventilador;810451;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+otro;otro;810451;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+revisar/cambiar motoventilador;otro;810451;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+otro;revisar/cambiar motoventilador;202718;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+otro;revisar/cambiar motoventilador;202719;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;2;1;2;0
+otro;realizar muestreo-analisis fsco-qco oltc;111690;2;0;2;0;0;0;0;0;0;0;8;5;0;0;0;0;0;0;0;0;0;0
+revisar/cambiar motoventilador;cambiar silica oltc;808069;2;0;2;0;0;9;0;9;0;0;2;0;0;0;0;0;0;0;0;0;0;0
+otro;hacer seguimiento generacion anormal de gases;111689;0;0;0;0;0;0;0;0;0;0;8;2;2;2;0;0;0;0;0;0;0;0
+otro;realizar muestreo-analisis fsco-qco oltc;111690;2;0;2;0;0;0;2;2;0;0;8;5;0;0;0;0;0;0;0;0;0;0
+revisar/cambiar motoventilador;realizar muestreo-analisis fsco-qco oltc;809578;3;0;3;0;3;9;0;2;2;0;1;0;0;0;0;0;0;0;0;0;0;0
+otro;revisar/cambiar motoventilador;202718;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+otro;realizar muestreo-analisis fsco-qco oltc;111691;0;0;0;0;0;0;0;0;0;0;8;2;2;2;0;3;0;0;0;0;0;0
+revisar/cambiar motoventilador;aplicar sikaflex 1a protecciones mecanic;809578;0;0;0;0;0;9;0;2;2;0;0;5;0;0;0;8;0;0;0;0;0;0
+otro;otro;201438;2;0;2;0;0;0;0;0;0;0;0;5;0;0;0;9;0;0;0;0;0;0
+otro;otro;202719;2;0;2;0;0;0;0;0;0;0;0;3;0;0;0;9;0;0;0;0;0;0
+otro;otro;203342;2;2;2;0;0;0;0;0;0;0;8;3;0;0;0;3;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;otro;808069;2;0;2;0;0;0;0;0;0;0;0;5;0;0;0;8;0;6;0;6;0;0
+revisar/cambiar motoventilador;otro;118423;0;0;0;0;0;0;0;0;0;0;8;2;2;2;0;0;9;0;0;0;0;0
+otro;realizar muestreo-analisis fsco-qco oltc;111689;0;0;0;0;0;0;0;0;0;0;8;2;2;2;0;0;0;0;0;0;0;0
+otro;otro;809578;0;0;0;0;0;9;0;2;2;0;1;3;0;0;0;3;0;0;0;0;0;0
+otro;revisar/cambiar motoventilador;116137;3;0;3;0;0;0;0;0;0;0;2;3;0;0;0;9;0;0;0;0;0;0
+revisar/cambiar motoventilador;otro;116144;3;0;3;0;0;1;0;1;0;0;0;5;9;0;0;8;0;0;0;0;0;0
+revisar/cambiar motoventilador;otro;2000407;2;0;2;0;0;8;0;8;0;0;0;5;9;0;0;8;0;0;0;0;0;0
+revisar/cambiar motoventilador;realizar muestreo-analisis fsco-qco oltc;111691;0;0;0;0;0;0;0;0;0;0;8;5;0;0;0;0;9;0;0;1;1;0
+revisar/cambiar motoventilador;realizar muestreo-analisis fsco-qco oltc;116137;3;0;3;0;0;0;0;0;0;0;2;3;0;0;3;9;0;0;0;0;0;0
+revisar/cambiar motoventilador;cambiar silica oltc;111690;2;0;2;0;0;0;0;0;0;0;8;5;0;0;0;0;9;0;0;0;0;0
+revisar/cambiar motoventilador;otro;119234;0;0;0;0;0;9;0;9;0;0;0;2;2;0;0;0;0;0;0;0;0;0
+revisar/cambiar motoventilador;cambiar silica oltc;116144;3;0;3;0;0;1;0;1;0;0;0;5;9;0;0;8;0;0;0;0;0;0
+revisar/cambiar motoventilador;realizar muestreo-analisis fsco-qco oltc;111690;2;0;2;0;0;0;2;2;0;0;8;5;0;0;0;0;9;0;0;0;0;0
+revisar/cambiar motoventilador;realizar muestreo-analisis fsco-qco oltc;111690;2;0;2;0;0;0;2;2;0;0;8;2;2;0;0;0;9;0;0;0;0;0
+revisar/cambiar motoventilador;otro;2000407;2;0;2;0;0;8;0;8;0;0;0;5;9;0;0;8;0;0;0;0;0;0
+revisar/cambiar motoventilador;cambiar silica oltc;809578;0;0;0;0;0;9;0;2;2;0;0;3;3;0;0;0;0;0;0;0;0;0
+revisar/cambiar motoventilador;otro;111689;0;0;0;0;0;0;0;0;0;0;8;2;2;2;0;0;9;0;0;0;0;0
+revisar/cambiar motoventilador;otro;111691;2;0;2;0;0;0;0;0;0;0;8;5;0;0;0;0;9;0;0;0;0;0
+otro;realizar muestreo-analisis fsco-qco oltc;201438;0;0;0;0;0;0;0;0;0;0;0;2;0;2;0;0;0;0;0;0;0;0
+otro;revisar/cambiar motoventilador;201438;2;0;0;0;2;0;0;0;0;0;0;2;0;2;0;0;0;0;0;0;0;0
+revisar/cambiar motoventilador;revisar/cambiar motoventilador;2000407;2;0;2;0;0;8;0;8;0;0;0;5;9;0;0;8;0;0;0;0;0;0
+otro;otro;119234;3;0;3;0;0;9;0;9;0;0;0;2;2;9;0;9;0;0;0;0;0;0
+revisar/cambiar motoventilador;cambiar silica oltc;119234;3;0;3;0;0;9;0;9;0;0;0;2;2;9;0;9;0;0;0;0;0;0
+revisar/cambiar motoventilador;otro;118423;2;0;2;0;0;0;0;0;0;0;8;5;0;0;0;0;9;0;0;0;0;0
+otro;realizar muestreo-analisis fsco-qco oltc;2000407;2;0;2;0;0;8;0;8;0;0;0;5;9;0;0;8;0;0;0;0;0;0
+revisar/cambiar motoventilador;realizar muestreo-analisis fsco-qco oltc;810449;0;0;0;0;0;0;0;0;0;0;2;3;0;0;0;9;0;0;0;0;0;0
+revisar/cambiar motoventilador;otro;119234;0;0;0;0;0;9;0;9;0;0;0;2;2;9;0;0;0;0;0;0;0;0
+otro;otro;2000407;2;0;2;0;0;8;0;8;0;0;0;5;9;0;0;8;0;0;0;0;0;0
+revisar/cambiar motoventilador;cambiar silica oltc;118423;2;0;2;0;0;0;0;0;0;0;8;5;0;0;0;0;9;0;0;0;0;0
+revisar/cambiar motoventilador;realizar muestreo-analisis fsco-qco oltc;201120;0;0;0;0;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+revisar/cambiar motoventilador;realizar muestreo-analisis fsco-qco oltc;116137;3;0;3;0;0;0;0;0;0;0;2;3;0;0;3;9;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;otro;810449;0;0;0;0;0;0;0;0;0;0;2;3;0;0;0;9;0;0;0;0;0;0
+otro;realizar secado oltc;202719;2;0;2;0;0;0;0;0;0;0;0;3;0;0;0;9;0;0;0;0;0;0
+revisar/cambiar motoventilador;otro;201438;0;0;0;0;0;0;0;0;0;0;0;2;0;2;0;0;0;6;0;6;0;0
+revisar/cambiar motoventilador;revisar/cambiar motoventilador;808069;3;0;3;0;0;0;0;0;0;0;2;2;0;2;0;3;0;6;0;6;0;0
+revisar/cambiar motoventilador;revisar/cambiar motoventilador;2000407;2;0;2;0;0;8;0;8;0;0;0;5;9;0;0;8;0;0;0;0;0;0
+otro;otro;116144;0;0;0;0;0;1;0;1;0;0;0;3;3;0;3;8;0;0;0;0;0;0
+otro;realizar muestreo-analisis fsco-qco oltc;118423;0;0;0;0;0;0;0;0;0;0;8;2;0;2;0;0;9;0;0;0;0;0
+otro;hacer seguimiento generacion anormal de gases;202719;2;0;2;0;0;0;0;0;0;0;0;3;0;0;0;9;0;0;0;0;0;0
+revisar/cambiar motoventilador;revisar/cambiar motoventilador;111691;2;0;2;0;0;0;0;0;0;0;8;5;0;0;0;0;9;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;realizar muestreo-analisis fsco-qco oltc;809578;0;0;0;0;0;9;0;2;2;0;0;3;3;0;0;0;0;0;0;0;0;0
+otro;cambiar silica oltc;809578;0;0;0;0;0;9;0;2;2;0;0;3;3;0;0;0;0;0;0;0;0;0
+otro;realizar muestreo-analisis fsco-qco oltc;809578;0;0;0;0;0;9;0;2;2;0;0;5;0;0;0;8;8;0;0;0;0;0
+otro;otro;809578;0;0;0;0;0;9;0;2;2;0;1;3;0;0;0;3;0;0;0;0;0;0
+otro;otro;810057;2;2;0;0;0;9;0;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+otro;revisar/cambiar motoventilador;810057;2;2;0;0;0;9;0;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+otro;realizar muestreo-analisis fsco-qco oltc;810057;2;2;0;0;0;9;0;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+otro;realizar muestreo-analisis fsco-qco oltc;810057;2;2;0;0;0;9;0;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+otro;realizar muestreo-analisis fsco-qco oltc;300390;2;0;2;0;0;0;0;0;0;0;8;3;3;0;0;8;9;0;0;0;0;0
+hacer seguimiento generacion anormal de gases;otro;810057;2;2;0;0;2;9;0;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+otro;revisar/cambiar motoventilador;810057;2;2;0;0;0;9;0;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+otro;realizar muestreo-analisis fsco-qco oltc;810057;1;1;0;1;0;9;0;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+hacer seguimiento generacion anormal de gases;otro;810057;2;0;0;0;2;9;0;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+otro;revisar/cambiar motoventilador;809872;3;0;0;0;3;9;0;9;0;0;1;5;0;0;0;8;0;3;0;3;0;0
+hacer seguimiento generacion anormal de gases;otro;810057;2;0;2;0;2;9;0;9;0;0;0;3;3;0;0;0;0;0;0;0;0;0
+hacer seguimiento generacion anormal de gases;realizar muestreo-analisis fsco-qco oltc;810057;2;0;2;0;2;9;0;9;0;0;0;3;3;0;0;0;0;0;0;0;0;0
+hacer seguimiento generacion anormal de gases;revisar/cambiar motoventilador;810057;2;0;2;0;2;9;0;9;0;0;0;3;3;0;0;0;0;0;0;0;0;0
+hacer seguimiento generacion anormal de gases;cambiar silica oltc;810057;1;1;0;1;0;9;0;9;0;0;0;3;3;0;0;0;0;0;0;0;0;0
+hacer seguimiento generacion anormal de gases;aplicar sikaflex 1a protecciones mecanic;810057;1;1;0;1;0;9;0;9;0;0;0;3;3;0;0;0;0;0;0;0;0;0
+hacer seguimiento generacion anormal de gases;aplicar sikaflex 1a protecciones mecanic;810057;1;1;0;1;0;9;0;9;0;0;0;3;3;0;0;0;0;0;0;0;0;0
+hacer seguimiento generacion anormal de gases;otro;810057;1;1;0;1;0;9;0;9;0;0;0;3;3;0;0;0;0;0;0;0;0;0
+otro;cambiar silica oltc;810057;1;1;0;1;0;9;0;9;0;0;0;3;3;0;0;0;0;0;0;0;0;0
+hacer seguimiento generacion anormal de gases;realizar muestreo-analisis fsco-qco oltc;810057;1;1;0;1;0;9;0;9;0;0;0;3;3;0;0;0;0;0;0;0;0;0
+hacer seguimiento generacion anormal de gases;realizar muestreo-analisis fsco-qco oltc;810057;1;1;0;1;0;9;0;9;0;0;0;3;3;0;0;0;0;0;0;0;0;0
+hacer seguimiento generacion anormal de gases;realizar muestreo-analisis fsco-qco oltc;810057;1;1;0;1;0;9;0;9;0;0;0;3;3;0;0;0;0;0;0;0;0;0
+hacer seguimiento generacion anormal de gases;revisar/cambiar motoventilador;810057;1;1;0;1;0;9;0;9;0;0;0;3;3;0;0;0;0;0;0;0;0;0
+hacer seguimiento generacion anormal de gases;realizar secado oltc;810057;1;1;0;1;0;9;0;9;0;0;0;3;3;0;0;0;0;0;0;0;0;0
+hacer seguimiento generacion anormal de gases;otro;809872;0;0;0;0;0;9;0;9;0;0;1;5;0;0;0;8;0;0;0;0;0;0
+otro;otro;809578;0;0;0;0;0;9;0;2;2;0;0;3;3;0;0;0;0;0;0;0;0;0
+hacer seguimiento generacion anormal de gases;realizar muestreo-analisis fsco-qco oltc;2005222;2;2;0;0;0;0;9;9;9;9;8;3;0;0;0;3;0;0;0;9;0;0
+otro;otro;2005222;2;2;0;0;0;0;9;9;0;0;8;3;0;0;0;3;9;0;0;0;0;0
+hacer seguimiento generacion anormal de gases;otro;2005222;2;2;0;0;0;0;9;9;0;0;8;3;0;0;0;3;9;0;0;0;0;0
+otro;realizar muestreo-analisis fsco-qco oltc;300390;2;0;2;0;0;0;0;0;0;0;8;3;3;0;0;8;9;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;otro;300390;2;0;2;0;0;0;0;0;0;0;8;3;3;0;0;8;9;0;0;0;0;0
+hacer seguimiento generacion anormal de gases;otro;2003341;2;0;0;2;0;8;0;8;0;0;0;3;9;0;0;3;0;0;0;0;0;0
+otro;cambiar silica oltc;2005222;2;2;0;0;0;0;9;9;0;0;8;3;0;0;0;3;9;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;hacer seguimiento generacion anormal de gases;202717;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;otro;810550;0;0;0;0;0;8;0;2;2;0;9;5;9;9;0;9;9;3;0;1;0;1
+realizar muestreo-analisis fsco-qco oltc;realizar muestreo-analisis fsco-qco oltc;810551;0;0;0;0;0;8;0;8;0;0;0;2;2;0;0;0;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;realizar muestreo-analisis fsco-qco oltc;123158;0;0;0;0;0;2;0;2;0;0;0;0;0;0;0;0;0;6;0;6;0;2
+realizar muestreo-analisis fsco-qco oltc;realizar muestreo-analisis fsco-qco oltc;123159;0;0;0;0;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;cambiar silica oltc;123160;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;cambiar silica oltc;202718;2;0;2;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;otro;123158;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;realizar muestreo-analisis fsco-qco oltc;123160;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;realizar muestreo-analisis fsco-qco oltc;123158;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;realizar muestreo-analisis fsco-qco oltc;123160;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;realizar muestreo-analisis fsco-qco oltc;202455;0;0;0;0;0;9;0;9;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+cambiar silica oltc;revisar/cambiar motoventilador;202717;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+cambiar silica oltc;otro;202718;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;revisar/cambiar motoventilador;123159;0;0;0;0;0;1;0;1;0;0;0;3;0;0;0;3;0;0;0;0;0;0
+otro;cambiar silica oltc;809578;3;0;3;0;3;9;0;2;2;0;1;0;0;0;0;0;0;0;0;0;0;0
+cambiar silica oltc;otro;807717;0;0;0;0;0;9;0;9;0;0;0;2;0;0;0;2;0;9;0;9;0;0
+cambiar silica oltc;aplicar sikaflex 1a protecciones mecanic;810050;0;0;0;0;0;9;0;9;0;0;2;0;0;0;0;0;0;3;0;3;0;3
+otro;realizar secado oltc;202718;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;otro;202718;3;0;3;0;0;1;0;1;0;0;0;5;0;0;0;9;0;0;0;0;0;0
+otro;revisar/cambiar motoventilador;202455;0;0;0;0;0;9;0;9;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;otro;808998;0;0;0;0;0;9;0;9;0;0;2;0;0;0;0;0;0;0;0;0;0;0
+realizar secado oltc;revisar/cambiar motoventilador;120113;0;0;0;0;0;2;0;2;0;0;0;3;0;0;0;9;0;0;0;0;0;0
+realizar secado oltc;otro;202718;3;0;3;0;0;1;0;1;0;0;0;5;0;0;0;9;0;0;0;0;0;0
+cambiar silica oltc;realizar secado oltc;118095;0;0;0;0;0;0;0;0;0;0;0;2;0;0;2;0;0;0;0;0;0;0
+cambiar silica oltc;otro;809578;0;0;0;0;0;9;0;2;2;0;0;5;0;0;0;8;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;otro;202718;3;0;3;0;0;1;0;1;0;0;0;5;0;0;0;9;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;revisar/cambiar motoventilador;2005670;7;7;7;0;7;2;0;2;0;2;0;5;0;0;0;9;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;cambiar silica oltc;400039;0;0;0;0;0;1;0;1;0;0;0;3;0;0;0;9;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;otro;400039;0;0;0;0;0;1;0;1;0;0;0;5;0;0;0;9;0;0;0;0;0;0
+cambiar silica oltc;revisar/cambiar motoventilador;810049;0;0;0;0;0;9;0;9;0;0;1;0;0;0;0;0;0;6;0;6;0;0
+cambiar silica oltc;revisar/cambiar motoventilador;810050;0;0;0;0;0;9;0;9;0;0;2;2;0;0;2;0;0;0;0;0;0;0
+realizar secado oltc;otro;400039;0;0;0;0;0;1;0;1;0;0;0;2;0;0;2;9;0;3;3;3;3;3
+otro;cambiar silica oltc;809578;0;0;0;0;0;9;0;2;2;0;1;3;0;0;0;3;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;cambiar silica oltc;201232;0;0;0;0;0;2;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0
+realizar secado oltc;realizar muestreo-analisis fsco-qco oltc;200597;1;1;1;0;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+realizar secado oltc;realizar muestreo-analisis fsco-qco oltc;202718;0;0;0;0;0;1;0;1;0;0;0;5;0;0;0;9;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;otro;202455;0;0;0;0;0;9;0;9;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;realizar muestreo-analisis fsco-qco oltc;808069;0;0;0;0;0;0;0;0;0;0;2;3;0;0;0;3;0;6;0;6;0;0
+cambiar silica oltc;otro;119233;0;0;0;0;0;9;0;9;0;0;2;0;0;0;0;0;0;0;0;0;0;0
+otro;hacer seguimiento generacion anormal de gases;202455;0;0;0;0;0;9;0;9;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;otro;2005480;0;0;0;0;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+realizar secado oltc;revisar/cambiar motoventilador;400039;0;0;0;0;0;1;0;1;0;0;0;3;0;0;0;3;0;0;0;0;0;0
+cambiar silica oltc;otro;123167;0;0;0;0;0;0;0;0;0;0;2;3;0;0;0;3;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;revisar/cambiar motoventilador;118095;0;0;0;0;0;1;0;1;0;0;0;5;0;0;0;9;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;otro;2004555;0;0;0;0;0;2;0;2;0;0;0;5;0;0;0;9;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;revisar/cambiar motoventilador;2008032;0;0;0;0;0;2;0;2;0;0;9;5;9;9;0;8;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;hacer seguimiento generacion anormal de gases;2008033;0;0;0;0;0;2;0;2;0;0;9;5;9;9;0;8;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;otro;201583;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;otro;123167;0;0;0;0;0;1;0;1;0;0;2;3;0;0;0;3;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;realizar muestreo-analisis fsco-qco oltc;123168;0;0;0;0;0;1;0;1;0;0;0;3;0;0;0;3;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;cambiar silica oltc;123168;0;0;0;0;0;1;0;1;0;0;0;3;0;0;0;3;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;otro;123168;0;0;0;0;0;1;0;1;0;0;0;3;0;0;0;3;0;0;0;0;0;0
+realizar secado oltc;otro;201583;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+otro;otro;116143;0;0;0;0;0;2;0;2;0;0;0;5;9;0;0;0;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;otro;200597;0;0;0;0;0;0;0;0;0;0;0;2;0;2;0;0;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;realizar muestreo-analisis fsco-qco oltc;200597;0;0;0;0;0;0;0;0;0;0;0;2;0;2;0;0;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;otro;200597;0;0;0;0;0;0;0;0;0;0;0;2;0;2;0;0;0;0;0;0;0;0
+cambiar silica oltc;realizar muestreo-analisis fsco-qco oltc;809579;0;0;0;0;0;9;0;9;0;0;0;2;0;0;2;0;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;otro;120113;0;0;0;0;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;otro;201120;0;0;0;0;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+cambiar silica oltc;hacer seguimiento generacion anormal de gases;807717;3;0;3;0;0;9;0;9;0;0;0;2;0;0;2;0;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;otro;132718;0;0;0;0;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;revisar/cambiar motoventilador;132718;0;0;0;0;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+otro;cambiar silica oltc;116144;0;0;0;0;0;1;0;1;0;0;0;5;9;0;0;8;0;0;0;0;0;0
+otro;otro;2008032;0;0;0;0;0;1;0;1;0;0;9;5;9;9;0;8;0;0;0;0;0;0
+otro;otro;116143;0;0;0;0;0;2;0;2;0;0;0;5;9;0;0;0;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;otro;809873;0;0;0;0;0;9;0;9;0;0;1;3;0;0;0;3;0;0;0;0;0;0
+otro;realizar muestreo-analisis fsco-qco oltc;123168;0;0;0;0;0;1;0;1;0;0;0;3;0;0;0;3;0;0;0;0;0;0
+otro;cambiar silica oltc;123159;0;0;0;0;0;1;0;1;0;0;0;3;0;0;0;3;0;0;0;0;0;0
+cambiar silica oltc;realizar muestreo-analisis fsco-qco oltc;2004555;0;0;0;0;0;2;0;2;0;0;0;5;0;0;0;9;0;0;0;0;0;0
+otro;otro;123167;0;0;0;0;0;0;0;0;0;0;2;3;0;0;0;3;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;aplicar sikaflex 1a protecciones mecanic;123167;0;0;0;0;0;0;0;0;0;0;2;3;0;0;0;3;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;realizar muestreo-analisis fsco-qco oltc;123168;0;0;0;0;0;1;0;1;0;0;0;3;0;0;3;3;0;0;0;0;0;0
+otro;otro;116143;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+otro;revisar/cambiar motoventilador;116144;0;0;0;0;0;1;0;1;0;0;0;5;0;0;0;8;0;0;0;0;0;0
+realizar secado oltc;otro;2008032;0;0;0;0;0;1;0;1;0;0;9;3;9;9;0;8;0;0;0;0;0;0
+realizar secado oltc;revisar/cambiar motoventilador;2008033;0;0;0;0;0;2;0;2;0;0;9;5;9;9;0;8;0;0;0;0;0;0
+cambiar silica oltc;otro;2008033;0;0;0;0;0;2;0;2;0;0;9;5;9;9;0;8;0;0;0;0;0;0
+cambiar silica oltc;aplicar sikaflex 1a protecciones mecanic;810049;0;0;0;0;0;9;0;9;0;0;2;0;0;0;0;0;0;0;0;0;0;0
+cambiar silica oltc;revisar/cambiar motoventilador;810050;0;0;0;0;0;9;0;2;2;0;0;2;0;2;0;0;0;0;0;0;0;0
+realizar secado oltc;otro;2008034;0;0;0;0;0;2;0;2;0;0;9;5;9;9;0;8;0;0;0;0;0;0
+otro;cambiar silica oltc;2004555;0;0;0;0;0;2;0;2;0;0;0;5;0;0;0;9;0;0;0;0;0;0
+otro;realizar muestreo-analisis fsco-qco oltc;2008034;0;0;0;0;0;2;0;2;0;0;9;5;9;9;0;8;0;0;0;0;0;0
+otro;revisar/cambiar motoventilador;2008032;0;0;0;0;0;1;0;1;0;0;9;5;9;9;0;8;0;0;0;0;0;0
+otro;realizar muestreo-analisis fsco-qco oltc;2008033;0;0;0;0;0;2;0;2;0;0;9;5;9;9;0;8;0;0;0;0;0;0
+otro;aplicar sikaflex 1a protecciones mecanic;2008034;0;0;0;0;0;2;0;2;0;0;9;3;9;9;0;8;0;0;0;0;0;0
+cambiar silica oltc;realizar secado oltc;202278;0;0;0;0;0;2;0;2;0;0;0;3;0;0;0;3;0;0;0;0;0;0
+cambiar silica oltc;realizar muestreo-analisis fsco-qco oltc;202280;0;0;0;0;0;2;0;2;0;0;0;3;0;0;0;3;0;0;0;0;0;0
+cambiar silica oltc;revisar/cambiar motoventilador;201120;0;0;0;0;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;cambiar silica oltc;400039;0;0;0;0;0;0;0;0;0;0;0;2;0;2;3;3;0;0;0;0;0;0
+cambiar silica oltc;otro;808998;0;0;0;0;0;9;0;9;0;0;2;0;0;0;0;0;0;0;0;0;0;0
+cambiar silica oltc;otro;808998;0;0;0;0;0;9;0;9;0;0;2;0;0;0;0;0;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;realizar muestreo-analisis fsco-qco oltc;809582;7;7;7;0;7;8;0;8;0;0;0;2;0;2;0;3;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;realizar muestreo-analisis fsco-qco oltc;811531;2;0;2;0;0;9;0;8;8;0;0;3;0;0;0;8;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;otro;2005671;0;0;0;0;0;3;0;3;0;0;0;2;2;0;0;9;0;0;0;0;0;0
+cambiar silica oltc;hacer seguimiento generacion anormal de gases;810551;0;0;0;0;0;8;0;8;0;0;2;5;0;0;0;9;0;0;0;0;0;0
+cambiar silica oltc;realizar secado oltc;810550;0;0;0;0;0;8;0;8;0;0;2;5;9;8;0;8;0;0;0;0;0;0
+cambiar silica oltc;otro;810550;0;0;0;0;0;8;0;8;0;0;2;5;9;8;0;8;0;0;0;0;0;0
+cambiar silica oltc;aplicar sikaflex 1a protecciones mecanic;810551;0;0;0;0;0;8;0;8;0;0;2;3;9;0;0;3;0;0;0;0;0;0
+otro;revisar/cambiar motoventilador;807717;3;0;3;0;0;9;0;9;0;0;0;2;0;0;2;0;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;realizar muestreo-analisis fsco-qco oltc;807833;0;0;0;0;0;9;0;2;2;0;0;5;9;0;0;0;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;otro;807717;3;0;3;0;0;9;0;9;0;0;0;2;0;0;2;0;0;0;0;0;0;0
+otro;cambiar silica oltc;2005482;0;0;0;0;0;3;0;3;0;0;0;2;2;0;0;0;0;6;0;6;0;3
+realizar muestreo-analisis fsco-qco oltc;otro;200597;0;0;0;0;0;0;0;3;3;0;0;2;0;2;0;0;0;0;0;0;0;0
+otro;revisar/cambiar motoventilador;116143;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+otro;realizar muestreo-analisis fsco-qco oltc;116144;0;0;0;0;0;1;0;1;0;0;0;3;3;0;3;8;0;0;0;0;0;0
+cambiar silica oltc;aplicar sikaflex 1a protecciones mecanic;810551;0;0;0;0;0;8;0;8;0;0;2;3;9;0;0;3;0;0;0;0;0;0
+otro;otro;808069;3;0;3;0;0;0;0;0;0;0;2;2;0;2;0;3;0;6;0;6;0;0
+realizar muestreo-analisis fsco-qco oltc;otro;810550;7;7;7;0;7;8;0;2;2;0;9;5;9;9;0;9;9;3;0;2;0;2
+realizar muestreo-analisis fsco-qco oltc;hacer seguimiento generacion anormal de gases;810550;0;0;0;0;0;8;0;2;2;0;9;5;9;9;0;9;9;3;0;1;0;1
+realizar muestreo-analisis fsco-qco oltc;aplicar sikaflex 1a protecciones mecanic;810550;0;0;0;0;0;8;0;2;2;0;9;5;9;9;0;9;9;3;0;3;0;3
+otro;otro;201204;0;0;0;0;0;0;0;2;2;0;0;0;0;0;0;0;0;0;0;1;0;1
+otro;otro;201232;0;0;0;0;0;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0
+otro;revisar/cambiar motoventilador;201238;0;0;0;0;0;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;otro;201232;0;0;0;0;0;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;cambiar silica oltc;201238;0;0;0;0;0;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;otro;809578;0;0;0;0;0;9;0;2;2;0;0;5;0;0;0;8;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;revisar/cambiar motoventilador;809578;0;0;0;0;0;9;0;2;2;0;0;5;0;0;0;8;0;0;0;0;0;0
+hacer seguimiento generacion anormal de gases;cambiar silica oltc;809578;0;0;0;0;0;9;0;2;2;0;0;5;0;0;0;8;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;revisar/cambiar motoventilador;201582;0;0;0;0;0;0;0;0;0;0;0;2;0;0;2;0;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;realizar muestreo-analisis fsco-qco oltc;201204;0;0;0;0;0;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0
+otro;realizar secado oltc;809578;0;0;0;0;0;9;0;2;2;0;1;3;0;0;0;3;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;otro;809578;0;0;0;0;0;9;0;2;2;0;1;3;0;0;0;3;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;otro;201232;0;0;0;0;0;2;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;revisar/cambiar motoventilador;809578;0;0;0;0;0;9;0;2;2;0;0;3;3;0;0;0;0;0;0;0;0;0
+otro;otro;201582;0;0;0;0;0;0;0;3;3;0;0;2;0;2;3;3;0;6;0;6;0;0
+realizar muestreo-analisis fsco-qco oltc;otro;809578;0;0;0;0;0;9;0;2;2;0;0;3;3;0;0;0;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;revisar/cambiar motoventilador;109355;0;0;0;0;0;0;2;2;0;0;8;5;0;0;0;0;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;otro;109356;0;0;0;0;0;0;2;2;0;0;3;5;0;0;0;0;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;realizar secado oltc;111566;0;0;0;0;0;0;2;2;0;0;3;5;0;0;0;0;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;revisar/cambiar motoventilador;111568;0;0;0;0;0;0;2;2;0;0;3;5;0;0;0;0;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;realizar muestreo-analisis fsco-qco oltc;111690;2;0;2;0;0;0;2;2;0;0;8;5;0;0;0;0;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;otro;118425;0;0;0;0;0;0;2;2;0;0;8;5;0;0;0;0;0;0;0;0;0;0
+otro;revisar/cambiar motoventilador;112137;0;0;0;0;0;0;2;2;0;0;8;5;9;0;0;0;0;0;0;0;0;0
+otro;revisar/cambiar motoventilador;118425;0;0;0;0;0;0;2;2;0;0;8;5;0;0;0;0;0;0;0;0;0;0
+otro;aplicar sikaflex 1a protecciones mecanic;111566;0;0;0;0;0;0;2;2;0;0;3;5;0;0;0;0;0;0;0;0;0;0
+otro;otro;111568;0;0;0;0;0;0;2;2;0;0;3;5;0;0;0;0;0;0;0;0;0;0
+otro;hacer seguimiento generacion anormal de gases;118425;0;0;0;0;0;0;2;2;0;0;8;5;0;0;0;0;0;0;0;0;0;0
+otro;aplicar sikaflex 1a protecciones mecanic;111566;0;0;0;0;0;0;0;0;0;0;8;2;2;2;0;0;0;0;0;0;0;0
+otro;realizar muestreo-analisis fsco-qco oltc;109357;0;0;0;0;0;0;3;3;0;0;8;2;2;2;0;3;0;0;0;0;0;0
+otro;aplicar sikaflex 1a protecciones mecanic;111988;0;0;0;0;0;0;2;2;0;0;8;5;0;0;0;0;9;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;otro;109355;0;0;0;0;0;0;2;2;0;0;8;3;0;0;0;3;9;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;otro;109356;0;0;0;0;0;0;2;2;0;0;8;2;2;2;0;3;9;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;cambiar silica oltc;111690;2;0;2;0;0;0;2;2;0;0;8;5;0;0;0;0;9;0;0;0;0;0
+otro;realizar muestreo-analisis fsco-qco oltc;111988;0;0;0;0;0;0;2;2;0;2;8;5;0;0;0;0;9;0;0;1;1;0
+realizar muestreo-analisis fsco-qco oltc;revisar/cambiar motoventilador;109355;0;0;0;0;0;0;2;2;0;2;8;3;0;0;0;3;9;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;otro;109356;0;0;0;0;0;0;2;2;0;2;8;2;2;2;0;3;9;0;0;0;0;0
+otro;realizar muestreo-analisis fsco-qco oltc;118425;0;0;0;0;0;0;2;2;0;0;8;5;0;0;0;0;9;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;realizar secado oltc;109355;0;0;0;0;0;0;2;2;0;0;8;3;3;3;0;3;9;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;realizar secado oltc;109356;0;0;0;0;0;0;2;2;0;0;8;2;2;2;0;3;9;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;otro;111567;0;0;0;0;0;0;2;2;0;0;8;5;0;0;0;0;9;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;cambiar silica oltc;111690;2;0;2;0;0;0;2;2;0;0;8;5;0;0;0;0;9;0;0;0;0;0
+otro;otro;111566;0;0;0;0;0;0;2;2;0;0;8;2;2;2;0;0;9;0;0;0;0;0
+otro;aplicar sikaflex 1a protecciones mecanic;111988;0;0;0;0;0;0;0;2;0;2;8;5;0;0;0;0;9;0;0;0;0;0
+otro;aplicar sikaflex 1a protecciones mecanic;112135;0;0;0;0;0;0;2;2;0;0;8;5;0;0;0;0;9;0;0;0;0;0
+otro;aplicar sikaflex 1a protecciones mecanic;112135;0;0;0;0;0;0;2;2;0;0;8;5;0;0;0;0;9;0;0;0;0;0
+otro;otro;111567;0;0;0;0;0;0;2;2;0;0;8;5;0;0;0;0;9;0;0;0;0;0
+otro;revisar/cambiar motoventilador;112135;0;0;0;0;0;0;2;2;0;0;8;2;0;2;0;0;9;0;0;6;0;0
+otro;otro;109357;0;0;0;0;0;0;0;0;0;0;8;2;2;0;0;0;9;0;0;0;0;0
+otro;aplicar sikaflex 1a protecciones mecanic;118425;0;0;0;0;0;0;2;2;0;0;8;5;0;0;0;0;9;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;otro;112135;0;0;0;0;0;0;0;0;0;0;8;2;0;2;0;0;9;0;0;0;0;0
+otro;otro;112137;0;0;0;0;0;0;0;0;0;0;8;2;2;2;0;3;9;0;0;0;0;0
+otro;realizar muestreo-analisis fsco-qco oltc;111988;0;0;0;0;0;0;0;0;0;0;8;2;0;2;0;0;9;0;0;0;0;0
+otro;otro;810451;2;0;2;0;0;0;0;0;0;0;9;9;9;9;9;9;9;0;0;0;0;0
+otro;otro;810451;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;otro;810451;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+otro;revisar/cambiar motoventilador;810451;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+otro;aplicar sikaflex 1a protecciones mecanic;810451;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+otro;otro;111988;0;0;0;0;0;0;0;0;0;0;8;2;3;3;0;3;0;0;0;0;0;0
+otro;otro;111988;0;0;0;0;0;0;0;0;0;0;8;2;3;3;0;3;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;realizar muestreo-analisis fsco-qco oltc;118424;0;0;0;0;0;0;0;0;0;0;8;2;0;0;0;2;0;0;0;0;0;0
+cambiar silica oltc;realizar muestreo-analisis fsco-qco oltc;202718;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+otro;otro;202718;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+otro;realizar muestreo-analisis fsco-qco oltc;109357;0;0;0;0;0;0;0;0;0;0;8;2;2;2;0;0;0;0;0;0;0;0
+otro;otro;111988;0;0;0;0;0;0;2;2;0;0;8;5;0;0;0;0;0;0;0;0;0;0
+otro;realizar muestreo-analisis fsco-qco oltc;112135;0;0;0;0;0;0;2;2;0;0;8;5;0;0;0;0;0;0;0;0;0;0
+otro;otro;112136;0;0;0;0;0;0;0;0;0;0;8;2;0;0;0;0;0;0;0;0;0;0
+otro;revisar/cambiar motoventilador;111566;0;0;0;0;0;0;0;0;0;0;2;5;0;0;0;0;0;0;0;0;0;0
+otro;realizar secado oltc;111690;2;0;2;0;0;0;0;0;0;0;8;5;0;0;0;0;0;0;0;0;0;0
+otro;revisar/cambiar motoventilador;111691;0;0;0;0;0;0;0;0;0;0;8;2;2;2;0;3;0;0;0;0;0;0
+otro;cambiar silica oltc;111966;2;0;2;0;0;0;0;0;0;0;8;3;3;3;0;0;0;0;0;0;0;0
+otro;revisar/cambiar motoventilador;111988;0;0;0;0;0;0;2;2;0;0;8;5;0;0;0;0;0;0;0;0;0;0
+otro;revisar/cambiar motoventilador;111988;0;0;0;0;0;0;2;2;0;0;8;5;0;0;0;0;0;0;0;0;0;0
+otro;otro;112135;0;0;0;0;0;0;2;2;0;0;8;5;0;0;0;0;0;0;0;0;0;0
+cambiar silica oltc;otro;810050;0;0;0;0;0;9;0;9;0;0;2;0;0;0;0;0;0;3;0;3;0;3
+cambiar silica oltc;otro;109355;0;0;0;0;0;0;2;2;0;0;8;5;0;0;0;0;0;0;0;0;0;0
+cambiar silica oltc;otro;109356;0;0;0;0;0;0;2;2;0;0;8;5;0;0;0;0;0;0;0;0;0;0
+cambiar silica oltc;otro;109357;0;0;0;0;0;0;3;3;0;0;8;2;2;2;0;0;0;0;0;0;0;0
+otro;realizar muestreo-analisis fsco-qco oltc;201117;2;0;2;0;0;0;0;0;0;0;0;5;0;0;0;9;0;0;0;0;0;0
+otro;revisar/cambiar motoventilador;202718;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+otro;realizar muestreo-analisis fsco-qco oltc;2000407;0;0;0;0;0;8;0;8;0;0;0;2;0;2;0;8;0;0;0;0;0;0
+otro;revisar/cambiar motoventilador;201114;1;0;1;0;0;0;0;0;0;0;0;5;0;0;0;9;0;0;0;0;0;0
+realizar secado oltc;otro;100008;0;0;0;0;0;0;0;0;0;0;8;5;9;0;0;0;9;0;0;1;1;0
+realizar secado oltc;otro;202718;3;0;3;0;0;1;0;1;0;0;0;5;0;0;0;9;0;0;0;0;0;0
+otro;revisar/cambiar motoventilador;201438;2;0;2;0;0;0;0;0;0;0;0;5;0;0;0;9;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;otro;808997;0;0;0;0;0;9;0;9;0;0;0;2;9;2;0;8;0;0;0;0;0;0
+otro;otro;201438;2;0;2;0;0;0;0;0;0;0;0;5;0;0;0;9;0;0;0;0;0;0
+hacer seguimiento generacion anormal de gases;hacer seguimiento generacion anormal de gases;100008;2;2;0;0;0;0;0;0;0;0;8;5;9;0;0;0;9;0;0;3;0;3
+otro;realizar muestreo-analisis fsco-qco oltc;2000407;2;0;2;0;0;8;0;8;0;0;0;2;9;2;0;8;0;0;0;0;0;0
+otro;revisar/cambiar motoventilador;200203;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;2;0;0;0;0;0;0
+otro;realizar secado oltc;809372;0;0;0;0;0;9;0;9;0;0;9;2;0;0;0;8;0;0;0;0;0;0
+cambiar silica oltc;hacer seguimiento generacion anormal de gases;810050;0;0;0;0;0;9;0;9;0;0;2;2;0;0;2;0;0;0;0;0;0;0
+realizar secado oltc;realizar muestreo-analisis fsco-qco oltc;400039;0;0;0;0;0;1;0;1;0;0;0;2;0;0;2;9;0;3;3;3;3;3
+otro;aplicar sikaflex 1a protecciones mecanic;109355;0;0;0;0;0;0;2;2;0;2;8;3;0;0;0;3;9;0;0;0;0;0
+otro;cambiar silica oltc;109356;0;0;0;0;0;0;2;2;0;2;8;2;2;2;0;3;9;0;0;0;0;0
+otro;otro;109357;0;0;0;0;0;0;3;3;0;0;8;2;2;2;0;3;9;0;0;0;0;0
+otro;otro;123178;0;0;0;0;0;0;0;0;0;0;8;2;0;0;0;2;9;0;0;0;0;0
+otro;cambiar silica oltc;809372;0;0;0;0;0;9;0;9;0;0;0;2;0;2;0;0;0;0;0;0;0;0
+otro;realizar secado oltc;810451;2;0;2;0;0;0;0;0;0;0;0;3;0;0;0;8;0;0;0;0;0;0
+otro;revisar/cambiar motoventilador;119040;2;0;2;0;0;0;0;0;0;0;0;5;0;0;0;9;0;0;0;0;0;0
+otro;realizar muestreo-analisis fsco-qco oltc;119040;2;0;2;0;0;0;0;0;0;0;0;5;0;0;0;9;0;0;0;0;0;0
+otro;otro;111073;0;0;0;0;0;0;0;0;0;0;8;2;2;2;0;0;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;realizar muestreo-analisis fsco-qco oltc;123178;0;0;0;0;0;0;0;0;0;0;8;2;0;0;0;2;9;0;0;0;0;0
+otro;otro;123178;0;0;0;0;0;0;0;0;0;0;8;2;0;0;0;2;9;0;0;0;0;0
+otro;hacer seguimiento generacion anormal de gases;400039;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;3;3;3;3;3
+otro;realizar muestreo-analisis fsco-qco oltc;400039;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;3;3;3;3;3
+otro;otro;400039;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;3;3;3;3;3
+otro;revisar/cambiar motoventilador;400039;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;3;3;3;3;3
+otro;realizar muestreo-analisis fsco-qco oltc;810050;0;0;0;0;0;9;0;9;0;0;2;3;0;0;0;3;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;otro;810050;0;0;0;0;0;9;0;9;0;0;2;3;0;0;0;3;0;0;0;0;0;0
+otro;realizar secado oltc;100008;2;2;0;0;0;0;0;0;0;0;8;5;9;0;0;0;9;0;0;0;0;0
+cambiar silica oltc;revisar/cambiar motoventilador;109355;0;0;0;0;0;0;0;0;0;0;8;3;3;3;0;3;9;0;0;1;1;0
+cambiar silica oltc;cambiar silica oltc;109356;0;0;0;0;0;0;0;0;0;0;8;2;2;2;0;3;9;0;0;0;0;0
+cambiar silica oltc;cambiar silica oltc;109357;0;0;0;0;0;0;3;3;0;0;8;2;2;2;0;3;9;0;0;0;0;0
+cambiar silica oltc;otro;109358;1;0;0;1;0;0;9;9;0;0;8;8;8;8;0;8;8;0;0;1;1;0
+otro;otro;201438;2;0;2;0;0;0;0;0;0;0;0;5;0;0;0;9;0;0;0;0;0;0
+otro;revisar/cambiar motoventilador;201585;0;0;0;0;0;0;0;0;0;0;0;2;0;0;2;0;0;0;0;0;0;0
+otro;otro;400039;0;0;0;0;0;1;0;1;0;0;0;3;0;0;0;3;0;0;0;0;0;0
+cambiar silica oltc;realizar secado oltc;123178;0;0;0;0;0;0;0;0;0;0;8;2;0;0;0;2;9;0;0;0;0;0
+cambiar silica oltc;revisar/cambiar motoventilador;123181;0;0;0;0;0;0;0;0;0;0;2;2;0;0;0;0;0;0;0;0;0;0
+otro;aplicar sikaflex 1a protecciones mecanic;201438;0;0;0;0;0;0;0;0;0;0;0;2;0;2;0;0;0;0;0;0;0;0
+otro;revisar/cambiar motoventilador;201582;3;0;3;0;0;0;0;0;0;0;0;2;0;0;2;0;0;0;0;0;0;0
+otro;realizar muestreo-analisis fsco-qco oltc;201585;0;0;0;0;0;0;0;0;0;0;0;2;0;2;0;0;0;0;0;0;0;0
+otro;otro;119040;2;0;2;0;0;0;0;0;0;0;0;5;0;0;0;9;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;otro;118423;2;0;2;0;0;0;0;0;0;0;8;5;0;0;0;0;9;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;realizar muestreo-analisis fsco-qco oltc;118423;2;0;2;0;0;0;0;0;0;0;8;5;0;0;0;0;9;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;otro;118423;2;0;2;0;0;0;0;0;0;0;8;5;0;0;0;0;9;0;0;0;0;0
+cambiar silica oltc;aplicar sikaflex 1a protecciones mecanic;111966;2;0;2;0;0;0;0;0;0;0;8;5;0;0;0;0;9;0;0;0;0;0
+otro;otro;200597;0;0;0;0;0;0;0;0;0;0;0;2;0;2;0;0;0;0;0;0;0;0
+otro;otro;200548;0;0;0;0;0;0;0;0;0;0;0;2;0;2;0;0;0;0;0;0;0;0
+otro;cambiar silica oltc;201585;0;0;0;0;0;0;0;0;0;0;0;2;0;2;0;0;0;0;0;0;0;0
+otro;otro;200597;0;0;0;0;0;0;0;0;0;0;0;2;0;2;0;0;0;0;0;0;0;0
+otro;cambiar silica oltc;2011679;0;0;0;0;0;0;9;9;0;0;8;2;9;2;0;0;8;0;0;0;0;0
+otro;revisar/cambiar motoventilador;201582;0;0;0;0;0;0;0;3;3;0;0;2;0;2;0;0;0;0;0;0;0;0
+otro;otro;201582;0;0;0;0;0;0;0;3;3;0;0;2;0;2;0;0;0;0;0;0;0;0
+otro;otro;119040;0;0;0;0;0;0;0;0;0;0;3;2;0;2;0;0;0;0;0;0;0;0
+otro;aplicar sikaflex 1a protecciones mecanic;100008;2;2;0;0;0;0;0;0;0;0;8;5;9;0;0;0;9;0;0;0;0;0
+otro;hacer seguimiento generacion anormal de gases;109358;0;0;0;0;0;0;9;9;0;0;8;2;8;2;0;3;8;0;0;0;0;0
+otro;revisar/cambiar motoventilador;109358;0;0;0;0;0;0;9;9;0;0;8;2;8;2;0;3;8;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;otro;132503;0;0;0;0;0;0;0;0;0;0;8;2;9;2;0;0;9;0;0;0;0;0
+otro;otro;2000407;2;0;2;0;0;8;0;8;0;0;0;5;9;0;0;8;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;otro;808997;0;0;0;0;0;9;0;9;0;0;2;2;0;0;0;2;0;0;0;0;0;0
+otro;realizar secado oltc;112135;0;0;0;0;0;0;2;2;0;0;8;5;0;0;0;0;9;0;0;6;0;0
+realizar muestreo-analisis fsco-qco oltc;revisar/cambiar motoventilador;111691;2;0;2;0;0;0;0;0;0;0;8;5;0;0;0;0;9;0;0;0;0;0
+cambiar silica oltc;cambiar silica oltc;810050;0;0;0;0;0;9;0;2;2;0;0;2;0;2;0;0;0;0;0;0;0;0
+otro;otro;117273;0;0;0;0;0;0;0;0;0;0;8;3;3;0;0;0;9;0;0;1;1;0
+otro;otro;117274;0;0;0;0;0;0;0;0;0;0;8;2;0;2;0;0;9;0;0;0;0;0
+cambiar silica oltc;realizar muestreo-analisis fsco-qco oltc;119040;0;0;0;0;0;0;0;0;0;0;3;2;0;2;0;0;0;6;0;6;0;0
+otro;otro;2005218;0;0;0;0;0;0;9;9;0;0;8;2;0;2;0;0;9;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;aplicar sikaflex 1a protecciones mecanic;111689;3;0;3;0;0;0;0;0;0;0;8;2;2;0;0;0;9;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;realizar muestreo-analisis fsco-qco oltc;111691;2;0;2;0;0;0;0;0;0;0;8;5;0;0;0;0;9;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;revisar/cambiar motoventilador;111966;2;0;2;0;0;0;0;0;0;0;8;5;0;0;0;0;9;0;0;0;0;0
+otro;otro;111691;2;0;2;0;0;0;0;0;0;0;8;5;0;0;0;0;9;0;0;0;0;0
+otro;otro;2000407;2;0;2;0;0;8;0;8;0;0;0;5;9;0;0;8;0;0;0;0;0;0
+otro;aplicar sikaflex 1a protecciones mecanic;119040;0;0;0;0;0;0;0;0;0;0;3;2;0;2;0;0;0;6;0;6;0;0
+realizar muestreo-analisis fsco-qco oltc;revisar/cambiar motoventilador;111566;0;0;0;0;0;0;0;0;0;0;8;2;2;0;0;0;9;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;revisar/cambiar motoventilador;111989;0;0;0;0;0;0;0;2;2;0;8;5;0;0;0;0;9;0;0;0;0;0
+otro;otro;111988;0;0;0;0;0;0;0;2;0;2;8;5;0;0;0;0;9;0;0;0;0;0
+otro;cambiar silica oltc;111988;0;0;0;0;0;0;0;2;0;2;8;5;0;0;0;0;9;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;otro;117258;0;0;0;0;0;0;0;0;0;0;8;2;0;2;0;0;9;0;0;0;0;0
+otro;cambiar silica oltc;117258;0;0;0;0;0;0;0;0;0;0;8;2;0;2;0;0;9;0;0;0;0;0
+otro;otro;117258;0;0;0;0;0;0;0;0;0;0;8;2;0;2;0;0;9;0;0;0;0;0
+otro;revisar/cambiar motoventilador;117259;0;0;0;0;0;0;0;0;0;0;8;2;2;0;0;0;9;0;0;0;0;0
+otro;cambiar silica oltc;117258;0;0;0;0;0;0;0;0;0;0;8;2;0;2;0;0;9;0;0;0;0;0
+otro;cambiar silica oltc;117259;0;0;0;0;0;0;0;0;0;0;8;2;2;0;0;0;9;0;0;0;0;0
+otro;revisar/cambiar motoventilador;117259;0;0;0;0;0;0;0;0;0;0;8;2;2;0;0;0;9;0;0;0;0;0
+otro;otro;112245;0;0;0;0;0;0;0;2;2;0;8;5;0;0;0;0;9;0;0;0;0;0
+cambiar silica oltc;realizar muestreo-analisis fsco-qco oltc;201114;0;0;0;0;0;3;0;3;0;0;2;3;0;3;0;3;0;0;0;0;0;0
+cambiar silica oltc;realizar muestreo-analisis fsco-qco oltc;201117;2;0;2;0;0;0;0;0;0;0;0;3;0;3;0;0;0;0;0;0;0;0
+otro;otro;111566;0;0;0;0;0;0;0;0;0;0;8;2;2;0;0;3;9;0;0;0;0;0
+otro;otro;111989;0;0;0;0;0;0;0;2;2;0;8;5;0;0;0;0;9;0;0;0;0;0
+otro;realizar muestreo-analisis fsco-qco oltc;115058;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;9;0;3;3;1;3;0
+otro;otro;115104;0;0;0;0;0;0;0;0;0;0;8;2;2;2;0;0;0;0;0;0;0;0
+otro;otro;111988;0;0;0;0;0;0;0;0;0;0;8;2;0;2;0;0;9;0;0;0;0;0
+aplicar sikaflex 1a protecciones mecanic;otro;112135;0;0;0;0;0;0;0;0;0;0;8;2;0;2;0;0;9;0;0;0;0;0
+aplicar sikaflex 1a protecciones mecanic;realizar muestreo-analisis fsco-qco oltc;112136;0;0;0;0;0;0;0;0;0;0;8;2;2;2;0;0;0;0;0;0;0;0
+aplicar sikaflex 1a protecciones mecanic;aplicar sikaflex 1a protecciones mecanic;119040;0;0;0;0;0;0;0;0;0;0;3;2;0;2;0;0;0;6;0;6;0;0
+aplicar sikaflex 1a protecciones mecanic;otro;123183;0;0;0;0;0;0;0;0;0;0;8;2;0;2;0;0;9;0;0;6;0;0
+aplicar sikaflex 1a protecciones mecanic;cambiar silica oltc;201438;0;0;0;0;0;0;0;0;0;0;0;2;0;2;0;0;0;6;0;6;0;0
+aplicar sikaflex 1a protecciones mecanic;hacer seguimiento generacion anormal de gases;201582;0;0;0;0;0;0;0;2;2;0;0;3;0;0;3;3;0;0;0;0;0;0
+aplicar sikaflex 1a protecciones mecanic;hacer seguimiento generacion anormal de gases;201585;0;0;0;0;0;0;0;0;0;0;0;2;0;2;0;0;0;6;0;6;0;0
+aplicar sikaflex 1a protecciones mecanic;otro;2009377;0;0;0;0;0;0;9;9;0;0;8;2;0;2;0;0;8;0;0;0;0;0
+aplicar sikaflex 1a protecciones mecanic;realizar muestreo-analisis fsco-qco oltc;2009378;0;0;0;0;0;0;9;9;0;0;8;2;9;2;0;9;8;0;0;0;0;0
+aplicar sikaflex 1a protecciones mecanic;revisar/cambiar motoventilador;111566;0;0;0;0;0;0;0;0;0;0;8;2;2;0;0;3;9;0;0;0;0;0
+aplicar sikaflex 1a protecciones mecanic;otro;111689;3;0;3;0;0;0;0;0;0;0;8;2;2;0;0;0;9;0;0;0;0;0
+aplicar sikaflex 1a protecciones mecanic;realizar muestreo-analisis fsco-qco oltc;111690;0;0;0;0;0;0;2;2;0;0;8;5;0;0;0;0;9;0;0;0;0;0
+aplicar sikaflex 1a protecciones mecanic;realizar muestreo-analisis fsco-qco oltc;111691;2;0;2;0;0;0;0;0;0;0;8;5;0;0;0;0;9;0;0;0;0;0
+aplicar sikaflex 1a protecciones mecanic;otro;111966;2;0;2;0;0;0;0;0;0;0;8;5;0;0;0;0;9;0;0;0;0;0
+otro;otro;111988;0;0;0;0;0;0;0;0;0;0;8;2;0;2;0;0;9;0;0;0;0;0
+aplicar sikaflex 1a protecciones mecanic;otro;111989;0;0;0;0;0;0;0;2;2;0;8;5;0;0;0;0;9;0;0;0;0;0
+aplicar sikaflex 1a protecciones mecanic;realizar muestreo-analisis fsco-qco oltc;112245;0;0;0;0;0;0;0;0;0;0;8;2;0;2;0;0;9;0;0;0;0;0
+aplicar sikaflex 1a protecciones mecanic;otro;112246;0;0;0;0;0;0;0;0;0;0;8;2;0;2;0;0;9;0;0;0;0;0
+aplicar sikaflex 1a protecciones mecanic;realizar muestreo-analisis fsco-qco oltc;117258;0;0;0;0;0;0;0;0;0;0;8;2;0;2;0;0;9;0;0;0;0;0
+aplicar sikaflex 1a protecciones mecanic;otro;117259;0;0;0;0;0;0;0;0;0;0;8;2;2;2;0;0;9;0;0;0;0;0
+aplicar sikaflex 1a protecciones mecanic;realizar muestreo-analisis fsco-qco oltc;123172;0;0;0;0;0;0;0;0;0;0;8;2;0;2;0;0;9;0;0;0;0;0
+aplicar sikaflex 1a protecciones mecanic;otro;133034;0;0;0;0;0;0;0;0;0;0;8;2;9;2;0;0;9;0;0;0;0;0
+aplicar sikaflex 1a protecciones mecanic;aplicar sikaflex 1a protecciones mecanic;2000236;0;0;0;0;0;0;0;0;0;0;8;2;9;2;0;0;9;0;0;0;0;0
+aplicar sikaflex 1a protecciones mecanic;realizar muestreo-analisis fsco-qco oltc;2009683;0;0;0;0;0;0;9;9;0;0;8;2;9;2;0;0;8;0;0;0;0;0
+aplicar sikaflex 1a protecciones mecanic;realizar muestreo-analisis fsco-qco oltc;109355;0;0;0;0;0;0;0;0;0;0;8;3;3;3;0;3;9;0;0;1;1;0
+aplicar sikaflex 1a protecciones mecanic;hacer seguimiento generacion anormal de gases;109356;0;0;0;0;0;0;0;0;0;0;8;2;2;2;0;0;9;0;0;0;0;0
+aplicar sikaflex 1a protecciones mecanic;revisar/cambiar motoventilador;109357;0;0;0;0;0;0;0;0;0;0;8;2;2;0;0;0;9;0;0;0;0;0
+aplicar sikaflex 1a protecciones mecanic;aplicar sikaflex 1a protecciones mecanic;111073;0;0;0;0;0;0;0;0;0;0;8;2;2;2;0;0;0;0;0;0;0;0
+aplicar sikaflex 1a protecciones mecanic;realizar muestreo-analisis fsco-qco oltc;111105;0;0;0;0;0;0;0;0;0;0;0;2;0;2;0;8;0;0;0;0;0;0
+aplicar sikaflex 1a protecciones mecanic;revisar/cambiar motoventilador;115104;0;0;0;0;0;0;0;0;0;0;8;2;2;2;0;0;0;0;0;0;0;0
+aplicar sikaflex 1a protecciones mecanic;cambiar silica oltc;117272;0;0;0;0;0;0;0;0;0;0;8;2;9;2;0;3;9;0;0;0;0;0
+aplicar sikaflex 1a protecciones mecanic;cambiar silica oltc;117273;0;0;0;0;0;0;0;0;0;0;8;2;9;2;0;3;9;0;0;1;1;0
+aplicar sikaflex 1a protecciones mecanic;otro;117274;0;0;0;0;0;0;0;0;0;0;8;2;9;2;0;3;9;0;0;0;0;0
+aplicar sikaflex 1a protecciones mecanic;otro;118423;2;0;2;0;0;0;0;0;0;0;8;5;0;0;0;0;9;0;0;0;0;0
+aplicar sikaflex 1a protecciones mecanic;revisar/cambiar motoventilador;118424;0;0;0;0;0;0;0;0;0;0;8;2;0;0;0;2;0;0;0;0;0;0
+aplicar sikaflex 1a protecciones mecanic;otro;118425;0;0;0;0;0;0;2;2;0;0;8;5;0;0;0;0;9;0;0;0;0;0
+aplicar sikaflex 1a protecciones mecanic;realizar muestreo-analisis fsco-qco oltc;132503;0;0;0;0;0;0;0;0;0;0;8;2;9;2;0;0;9;0;0;0;0;0
+aplicar sikaflex 1a protecciones mecanic;cambiar silica oltc;200203;0;0;0;0;0;0;0;0;0;0;0;2;0;0;2;0;0;0;0;0;0;0
+aplicar sikaflex 1a protecciones mecanic;revisar/cambiar motoventilador;200548;2;2;0;0;0;2;0;2;0;0;0;2;0;2;0;0;0;0;0;0;0;0
+aplicar sikaflex 1a protecciones mecanic;revisar/cambiar motoventilador;200597;0;0;0;0;0;0;0;3;3;0;0;2;0;2;0;0;0;0;0;0;0;0
+aplicar sikaflex 1a protecciones mecanic;otro;201114;0;0;0;0;0;3;0;3;0;0;2;3;0;3;0;3;0;0;0;0;0;0
+aplicar sikaflex 1a protecciones mecanic;otro;201117;2;0;2;0;0;0;0;0;0;0;0;3;0;3;0;0;0;0;0;0;0;0
+aplicar sikaflex 1a protecciones mecanic;otro;201232;0;0;0;0;0;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0
+aplicar sikaflex 1a protecciones mecanic;cambiar silica oltc;2000233;2;0;0;0;2;0;0;0;0;0;8;5;9;0;0;0;9;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;realizar muestreo-analisis fsco-qco oltc;117274;0;0;0;0;0;0;0;0;0;0;8;2;9;2;0;3;9;0;0;0;0;0
+otro;realizar muestreo-analisis fsco-qco oltc;123183;0;0;0;0;0;0;0;0;0;0;8;2;0;2;0;0;9;0;0;6;0;0
+otro;cambiar silica oltc;123183;0;0;0;0;0;0;0;0;0;0;8;2;0;2;0;0;9;0;0;0;0;0
+otro;otro;2009685;0;0;0;0;0;0;9;9;0;0;8;2;9;2;0;0;8;0;0;0;0;0
+otro;cambiar silica oltc;111989;0;0;0;0;0;0;0;2;2;0;8;5;0;0;0;0;9;0;0;0;0;0
+otro;realizar muestreo-analisis fsco-qco oltc;111989;0;0;0;0;0;0;0;2;2;0;8;5;0;0;0;0;9;0;0;0;0;0
+cambiar silica oltc;otro;118435;0;0;0;0;0;0;0;0;0;0;8;2;0;2;0;0;9;0;0;0;0;0
+cambiar silica oltc;otro;123181;0;0;0;0;0;0;0;0;0;0;2;2;0;0;0;0;0;0;0;0;0;0
+otro;otro;123181;0;0;0;0;0;0;0;0;0;0;2;2;0;0;0;0;0;0;0;0;0;0
+otro;hacer seguimiento generacion anormal de gases;202718;0;0;0;0;0;0;0;0;0;0;0;2;0;2;0;9;0;0;0;0;0;0
+cambiar silica oltc;realizar muestreo-analisis fsco-qco oltc;118425;0;0;0;0;0;0;2;2;0;0;8;5;0;0;0;0;9;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;realizar muestreo-analisis fsco-qco oltc;117272;0;0;0;0;0;0;0;0;0;0;8;2;9;2;0;3;9;0;0;0;0;0
+cambiar silica oltc;realizar muestreo-analisis fsco-qco oltc;118423;2;0;2;0;0;0;0;0;0;0;8;5;0;0;0;0;9;0;0;0;0;0
+cambiar silica oltc;otro;118424;0;0;0;0;0;0;0;0;0;0;8;2;0;0;0;2;0;0;0;0;0;0
+cambiar silica oltc;realizar muestreo-analisis fsco-qco oltc;810550;0;0;0;0;0;8;0;8;0;0;2;5;9;8;0;8;0;0;0;0;0;0
+cambiar silica oltc;otro;810550;0;0;0;0;0;8;0;8;0;0;2;5;9;8;0;8;0;0;0;0;0;0
+cambiar silica oltc;realizar muestreo-analisis fsco-qco oltc;111073;0;0;0;0;0;0;0;0;0;0;8;2;3;0;0;2;9;0;0;0;0;0
+otro;otro;2011679;0;0;0;0;0;0;9;9;0;0;8;2;9;2;0;0;8;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;otro;118424;0;0;0;0;0;0;0;0;0;0;8;2;0;2;0;0;9;0;0;0;0;0
+otro;realizar muestreo-analisis fsco-qco oltc;2000407;2;0;2;0;0;8;0;8;0;0;0;5;9;0;0;8;0;0;0;0;0;0
+otro;otro;2000407;2;0;2;0;0;8;0;8;0;0;0;5;9;0;0;8;0;0;0;0;0;0
+otro;cambiar silica oltc;112137;0;0;0;0;0;0;0;0;0;0;8;2;2;2;0;3;9;0;0;0;0;0
+otro;realizar muestreo-analisis fsco-qco oltc;111988;0;0;0;0;0;0;0;0;0;0;8;2;0;2;0;0;9;0;0;0;0;0
+otro;otro;111989;0;0;0;0;0;0;0;0;0;0;8;2;0;2;0;3;9;0;0;0;0;0
+otro;otro;123181;0;0;0;0;0;0;0;0;0;0;8;2;0;2;0;0;9;0;0;0;0;0
+otro;otro;2000236;0;0;0;0;0;0;0;0;0;0;8;2;9;2;0;0;9;0;0;0;0;0
+otro;realizar muestreo-analisis fsco-qco oltc;109355;0;0;0;0;0;0;0;0;0;0;8;3;3;3;0;3;9;0;0;1;1;0
+otro;realizar secado oltc;109356;0;0;0;0;0;0;0;0;0;0;8;2;2;2;0;0;9;0;0;0;0;0
+otro;realizar muestreo-analisis fsco-qco oltc;112135;0;0;0;0;0;0;0;0;0;0;8;2;0;2;0;0;9;0;0;0;0;0
+aplicar sikaflex 1a protecciones mecanic;otro;111566;0;0;0;0;0;0;0;2;2;0;8;3;0;0;0;3;9;0;0;0;0;0
+otro;revisar/cambiar motoventilador;117259;0;0;0;0;0;0;0;0;0;0;8;2;2;0;0;0;9;0;0;0;0;0
+cambiar silica oltc;otro;201114;0;0;0;0;0;3;0;3;0;0;2;3;0;3;0;3;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;cambiar silica oltc;109355;0;0;0;0;0;0;0;0;0;0;8;3;3;3;0;3;9;0;0;1;1;0
+realizar muestreo-analisis fsco-qco oltc;cambiar silica oltc;115104;0;0;0;0;0;0;0;0;0;0;8;2;2;2;0;0;0;0;0;0;0;0
+otro;revisar/cambiar motoventilador;112137;0;0;0;0;0;0;0;0;0;0;8;2;2;2;0;3;9;0;0;0;0;0
+cambiar silica oltc;realizar muestreo-analisis fsco-qco oltc;120116;2;0;2;0;0;0;0;0;0;0;8;3;0;3;0;0;9;0;0;0;0;0
+cambiar silica oltc;otro;810451;2;0;2;0;0;0;0;0;0;0;0;3;0;0;0;8;0;0;0;0;0;0
+cambiar silica oltc;otro;109355;0;0;0;0;0;0;0;0;0;0;8;3;3;3;0;3;9;0;0;1;1;0
+cambiar silica oltc;realizar muestreo-analisis fsco-qco oltc;109356;0;0;0;0;0;0;0;0;0;0;8;2;2;2;0;0;9;0;0;0;0;0
+cambiar silica oltc;revisar/cambiar motoventilador;109357;0;0;0;0;0;0;0;0;0;0;8;2;2;0;0;0;9;0;0;0;0;0
+cambiar silica oltc;revisar/cambiar motoventilador;115057;0;0;0;0;0;0;0;0;0;0;3;2;0;0;2;0;0;3;0;3;0;0
+cambiar silica oltc;aplicar sikaflex 1a protecciones mecanic;118095;0;0;0;0;0;0;0;0;0;0;0;2;0;0;2;0;0;0;0;0;0;0
+otro;realizar muestreo-analisis fsco-qco oltc;810050;0;0;0;0;0;9;0;9;0;0;2;0;0;0;0;0;0;3;0;3;0;3
+otro;otro;200203;0;0;0;0;0;0;0;0;0;0;0;2;0;0;2;0;0;0;0;0;0;0
+otro;otro;200646;0;0;0;0;0;0;0;0;0;0;0;2;0;0;2;9;0;0;0;0;0;0
+otro;aplicar sikaflex 1a protecciones mecanic;200646;0;0;0;0;0;0;0;0;0;0;0;2;0;0;2;9;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;otro;200646;0;0;0;0;0;0;0;0;0;0;0;2;0;0;2;9;0;0;0;0;0;0
+otro;otro;203342;2;2;2;0;0;0;0;0;0;0;8;3;0;0;0;3;0;0;0;0;0;0
+otro;realizar muestreo-analisis fsco-qco oltc;200203;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;2;0;0;0;0;0;0
+otro;cambiar silica oltc;200203;0;0;0;0;0;0;0;0;0;0;0;2;0;2;0;0;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;realizar muestreo-analisis fsco-qco oltc;400039;0;0;0;0;0;1;0;1;0;0;0;3;0;0;0;9;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;realizar muestreo-analisis fsco-qco oltc;400039;0;0;0;0;0;1;0;1;0;0;0;5;0;0;0;9;0;0;0;0;0;0
+realizar secado oltc;otro;400039;0;0;0;0;0;1;0;1;0;0;0;2;0;0;2;9;0;3;3;3;3;3
+realizar muestreo-analisis fsco-qco oltc;revisar/cambiar motoventilador;203342;2;2;2;0;0;0;0;0;0;0;8;3;9;0;0;3;0;0;0;0;0;0
+realizar secado oltc;realizar muestreo-analisis fsco-qco oltc;400039;0;0;0;0;0;1;0;1;0;0;0;3;0;0;0;3;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;otro;118095;0;0;0;0;0;1;0;1;0;0;0;5;0;0;0;9;0;0;0;0;0;0
+otro;cambiar silica oltc;200647;0;0;0;0;0;0;0;0;0;0;3;2;0;0;2;0;0;0;0;0;0;0
+otro;otro;201582;0;0;0;0;0;0;0;3;3;0;0;2;0;2;0;0;0;0;0;0;0;0
+otro;realizar muestreo-analisis fsco-qco oltc;200647;0;0;0;0;0;0;0;0;0;0;3;2;0;0;2;0;0;0;0;0;0;0
+otro;otro;200203;0;0;0;0;0;0;0;0;0;0;0;2;0;0;2;0;0;0;0;0;0;0
+otro;cambiar silica oltc;203342;3;0;3;0;0;0;0;0;0;0;2;3;9;0;0;3;0;0;0;0;0;0
+otro;realizar muestreo-analisis fsco-qco oltc;201179;0;0;0;0;0;0;0;0;0;0;0;2;0;0;2;0;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;cambiar silica oltc;400039;0;0;0;0;0;0;0;0;0;0;0;2;0;2;3;3;0;0;0;0;0;0
+revisar/cambiar motoventilador;revisar/cambiar motoventilador;200203;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;3;1;3;0
+otro;otro;810050;0;0;0;0;0;9;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0
+otro;realizar muestreo-analisis fsco-qco oltc;200203;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0
+revisar/cambiar motoventilador;revisar/cambiar motoventilador;111568;0;0;0;0;0;0;0;0;0;0;3;5;0;0;0;0;0;0;0;2;0;2
+revisar/cambiar motoventilador;otro;109357;0;0;0;0;0;0;0;0;0;0;8;2;2;2;0;0;3;0;0;0;0;0
+revisar/cambiar motoventilador;realizar muestreo-analisis fsco-qco oltc;808069;2;0;2;0;0;9;0;9;0;0;2;0;0;0;0;0;0;0;0;0;0;0
+revisar/cambiar motoventilador;realizar muestreo-analisis fsco-qco oltc;112113;0;0;0;0;0;0;0;2;2;0;8;5;0;0;0;0;0;0;0;1;0;1
+revisar/cambiar motoventilador;realizar muestreo-analisis fsco-qco oltc;809578;3;0;3;0;3;9;0;2;2;0;1;0;0;0;0;0;0;0;0;0;0;0
+revisar/cambiar motoventilador;otro;109357;0;0;0;0;0;0;0;0;0;0;8;2;2;2;0;0;0;0;0;0;0;0
+revisar/cambiar motoventilador;otro;111566;0;0;0;0;0;0;2;2;0;0;3;5;0;0;0;0;0;0;0;0;0;0
+revisar/cambiar motoventilador;otro;109356;0;0;0;0;0;0;2;2;0;0;3;5;0;0;0;0;0;0;0;0;0;0
+revisar/cambiar motoventilador;realizar secado oltc;809578;0;0;0;0;0;9;0;2;2;0;0;5;0;0;0;8;0;0;0;0;0;0
+revisar/cambiar motoventilador;revisar/cambiar motoventilador;109357;0;0;0;0;0;0;3;3;0;0;8;2;2;2;0;3;9;0;0;0;0;0
+otro;otro;109357;0;0;0;0;0;0;3;3;0;0;8;2;2;2;0;3;9;0;0;0;0;0
+otro;revisar/cambiar motoventilador;111566;0;0;0;0;0;0;0;0;0;0;8;5;0;0;0;0;9;0;0;2;0;2
+otro;cambiar silica oltc;111689;0;0;0;0;0;0;0;0;0;0;8;2;2;2;0;0;0;0;0;0;0;0
+revisar/cambiar motoventilador;;116142;2;0;2;0;0;0;0;0;0;0;0;5;0;0;0;9;0;0;0;0;0;0
+revisar/cambiar motoventilador;;2005670;0;0;0;0;0;0;0;2;0;2;3;5;0;0;0;9;0;0;0;0;0;0
+revisar/cambiar motoventilador;;111691;0;0;0;0;0;0;0;0;0;0;8;5;0;0;0;0;9;0;0;1;1;0
+revisar/cambiar motoventilador;;119233;0;0;0;0;0;9;0;9;0;0;2;0;0;0;0;0;0;0;0;0;0;0
+revisar/cambiar motoventilador;;203791;0;0;0;0;0;0;0;0;0;0;2;3;0;0;0;3;0;6;0;6;0;0
+revisar/cambiar motoventilador;;116137;3;0;3;0;0;0;0;0;0;0;2;3;0;0;3;9;0;0;0;0;0;0
+revisar/cambiar motoventilador;;111566;0;0;0;0;0;0;0;0;0;0;8;2;2;2;0;0;9;0;0;0;0;0
+revisar/cambiar motoventilador;;111690;2;0;2;0;0;0;0;0;0;0;8;5;0;0;0;0;9;0;0;0;0;0
+revisar/cambiar motoventilador;;119234;0;0;0;0;0;9;0;9;0;0;0;2;2;0;0;0;0;0;0;0;0;0
+revisar/cambiar motoventilador;;2005482;0;0;0;0;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;3;2;0
+revisar/cambiar motoventilador;;109357;0;0;0;0;0;0;2;2;0;0;8;5;0;0;0;0;9;0;0;0;0;0
+revisar/cambiar motoventilador;;111690;2;0;2;0;0;0;2;2;0;0;8;5;0;0;0;0;9;0;0;0;0;0
+revisar/cambiar motoventilador;;111690;2;0;2;0;0;0;2;2;0;0;8;2;2;0;0;0;9;0;0;0;0;0
+revisar/cambiar motoventilador;;203791;0;0;0;0;0;0;0;0;0;0;2;3;0;0;0;3;0;0;0;0;0;0
+revisar/cambiar motoventilador;;2005671;0;0;0;0;0;3;0;3;0;0;0;2;2;0;0;9;0;0;0;0;0;0
+revisar/cambiar motoventilador;;116142;2;0;2;0;0;0;0;0;0;0;0;5;0;0;0;9;0;0;0;0;0;0
+revisar/cambiar motoventilador;;201446;0;0;0;0;0;0;0;0;0;0;0;2;2;0;0;9;0;0;0;0;0;0
+revisar/cambiar motoventilador;;809578;0;0;0;0;0;9;0;2;2;0;0;3;3;0;0;0;0;0;0;0;0;0
+revisar/cambiar motoventilador;;808998;0;0;0;0;0;9;0;9;0;0;2;0;0;0;0;0;0;0;0;0;0;0
+revisar/cambiar motoventilador;;111689;0;0;0;0;0;0;0;0;0;0;8;2;2;2;0;0;9;0;0;0;0;0
+revisar/cambiar motoventilador;;111691;2;0;2;0;0;0;0;0;0;0;8;5;0;0;0;0;9;0;0;0;0;0
+revisar/cambiar motoventilador;;111434;0;0;0;0;0;0;0;2;2;0;0;3;3;0;0;3;0;0;0;0;0;0
+revisar/cambiar motoventilador;;119234;3;0;3;0;0;9;0;9;0;0;0;2;2;9;0;9;0;0;0;0;0;0
+otro;;119234;3;0;3;0;0;9;0;9;0;0;0;2;2;9;0;9;0;0;0;0;0;0
+revisar/cambiar motoventilador;;109357;0;0;0;0;0;0;2;2;0;0;8;5;9;0;0;0;9;0;0;0;0;0
+revisar/cambiar motoventilador;;119233;0;0;0;0;0;9;0;9;0;0;2;0;0;0;0;0;0;0;0;0;0;0
+revisar/cambiar motoventilador;;201439;0;0;0;0;0;0;0;2;2;0;0;5;0;0;0;9;0;0;0;0;0;0
+revisar/cambiar motoventilador;;201440;1;0;1;0;1;0;0;0;0;0;0;5;0;0;0;9;0;0;0;0;0;0
+otro;;2005480;0;0;0;0;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+revisar/cambiar motoventilador;;2005482;0;0;0;0;0;3;0;3;0;0;0;2;2;0;0;0;0;6;0;6;0;3
+revisar/cambiar motoventilador;;118487;3;0;3;0;0;1;0;1;0;0;3;0;0;0;0;0;0;0;0;0;0;0
+revisar/cambiar motoventilador;;201440;1;0;1;0;1;0;0;0;0;0;0;3;3;0;0;9;0;0;0;0;0;0
+revisar/cambiar motoventilador;;111566;0;0;0;0;0;0;2;2;0;0;8;5;0;0;0;0;9;0;0;0;0;0
+revisar/cambiar motoventilador;;116142;0;0;0;0;0;0;0;0;0;0;0;2;2;0;0;9;0;0;0;0;0;0
+revisar/cambiar motoventilador;;810450;3;0;3;0;0;0;0;0;0;0;0;2;2;0;0;9;0;0;0;0;0;0
+revisar/cambiar motoventilador;;119234;0;0;0;0;0;9;0;9;0;0;0;2;2;9;0;0;0;0;0;0;0;0
+revisar/cambiar motoventilador;;2005671;0;0;0;0;0;3;0;3;0;0;0;2;2;0;0;9;0;0;0;0;0;0
+revisar/cambiar motoventilador;;808998;0;0;0;0;0;9;0;9;0;0;2;0;0;0;0;0;0;0;0;0;0;0
+revisar/cambiar motoventilador;;2005670;0;0;0;0;0;0;0;0;0;0;3;2;2;0;0;9;0;0;0;0;0;0
+revisar/cambiar motoventilador;;2005671;0;0;0;0;0;3;0;3;0;0;0;2;2;0;0;9;0;0;0;0;0;0
+revisar/cambiar motoventilador;;808998;0;0;0;0;0;9;0;9;0;0;2;0;0;0;0;0;0;0;0;0;0;0
+revisar/cambiar motoventilador;;808998;0;0;0;0;0;9;0;9;0;0;2;0;0;0;0;0;0;0;0;0;0;0
+otro;;810054;2;0;0;0;2;9;0;8;8;8;2;2;0;2;0;8;0;8;0;6;0;0
+revisar/cambiar motoventilador;;201446;0;0;0;0;0;0;0;0;0;0;0;2;0;2;0;9;0;0;0;0;0;0
+otro;;201445;0;0;0;0;0;0;0;0;0;0;0;2;2;2;0;9;0;0;0;0;0;0
+revisar/cambiar motoventilador;;201120;0;0;0;0;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+revisar/cambiar motoventilador;;2005480;0;0;0;0;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+revisar/cambiar motoventilador;;116137;3;0;3;0;0;0;0;0;0;0;2;3;0;0;3;9;0;0;0;0;0;0
+revisar/cambiar motoventilador;;2005671;0;0;0;0;0;3;0;3;0;0;0;2;2;0;0;9;0;0;0;0;0;0
+revisar/cambiar motoventilador;;201438;0;0;0;0;0;0;0;0;0;0;0;2;0;2;0;0;0;6;0;6;0;0
+revisar/cambiar motoventilador;;808069;3;0;3;0;0;0;0;0;0;0;2;2;0;2;0;3;0;6;0;6;0;0
+revisar/cambiar motoventilador;;2005482;0;0;0;0;0;3;0;3;0;0;0;2;2;0;0;0;0;6;0;6;0;3
+revisar/cambiar motoventilador;;2005670;0;0;0;0;0;0;0;0;0;0;3;2;2;0;0;9;0;3;0;3;0;0
+revisar/cambiar motoventilador;;111566;0;0;0;0;0;0;0;2;2;0;8;3;0;0;0;3;9;0;0;0;0;0
+revisar/cambiar motoventilador;;111691;2;0;2;0;0;0;0;0;0;0;8;5;0;0;0;0;9;0;0;0;0;0
+revisar/cambiar motoventilador;;119233;0;0;0;0;0;9;0;9;0;0;0;2;2;0;0;0;0;0;0;0;0;0
+revisar/cambiar motoventilador;;2005480;0;0;0;0;0;0;0;0;0;0;0;2;2;0;0;0;0;0;0;0;0;0
+revisar/cambiar motoventilador;;2005480;0;0;0;0;0;0;0;0;0;0;0;2;2;0;0;0;0;0;0;0;0;0
+revisar/cambiar motoventilador;;112113;0;0;0;0;0;0;2;2;2;0;8;5;0;0;0;0;9;0;0;0;0;0
+revisar/cambiar motoventilador;;111689;3;0;3;0;0;0;0;0;0;0;8;2;2;0;0;0;9;0;0;0;0;0
+revisar/cambiar motoventilador;;201445;0;0;0;0;0;0;0;0;0;0;0;2;0;2;0;9;0;0;0;0;0;0
+revisar/cambiar motoventilador;;111566;0;0;0;0;0;0;0;2;2;0;8;3;0;0;0;3;9;0;0;0;0;0
+revisar/cambiar motoventilador;;808069;3;0;3;0;0;0;0;0;0;0;2;2;0;2;0;3;0;6;0;6;0;0
+revisar/cambiar motoventilador;;808069;3;0;3;0;0;0;0;0;0;0;2;2;0;2;0;3;0;6;0;6;0;0
+revisar/cambiar motoventilador;;201445;0;0;0;0;0;0;0;0;0;0;0;2;0;2;0;9;0;0;0;0;0;0
+revisar/cambiar motoventilador;;111691;2;0;2;0;0;0;0;0;0;0;8;5;0;0;0;0;9;0;0;0;0;0
+revisar/cambiar motoventilador;;2005480;0;0;0;0;0;0;0;0;0;0;0;2;2;0;0;0;0;0;0;0;0;0
+revisar/cambiar motoventilador;;109357;0;0;0;0;0;0;0;0;0;0;8;2;2;0;0;0;9;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;;136773;0;0;0;0;0;0;0;0;0;0;0;2;2;0;0;2;3;3;0;3;0;3
+realizar muestreo-analisis fsco-qco oltc;;2003341;9;9;9;0;9;8;0;9;9;9;2;2;0;0;0;3;0;9;0;9;0;0
+realizar muestreo-analisis fsco-qco oltc;;809582;0;0;0;0;0;9;0;9;0;0;0;2;3;0;0;8;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;;2003341;9;9;9;0;9;8;0;9;9;9;2;2;9;0;0;0;0;9;0;9;0;0
+realizar muestreo-analisis fsco-qco oltc;;200786;2;2;2;0;0;0;0;3;3;0;3;3;9;0;0;3;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;;808997;0;0;0;0;0;9;0;9;0;0;2;2;0;0;0;2;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;;810449;0;0;0;0;0;0;0;0;0;0;2;3;0;0;0;9;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;;810449;0;0;0;0;0;0;0;0;0;0;2;3;0;0;0;9;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;;810449;0;0;0;0;0;0;0;0;0;0;2;3;0;0;0;9;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;;810449;0;0;0;0;0;0;0;0;0;0;2;3;0;0;0;9;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;;808997;0;0;0;0;0;9;0;9;0;0;2;2;0;0;0;2;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;;202280;0;0;0;0;0;2;0;2;0;0;0;3;0;0;0;3;0;0;0;0;0;0
+otro;;809365;0;0;0;0;0;9;0;2;2;0;0;2;0;2;3;0;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;;202658;0;0;0;0;0;0;0;2;2;0;0;3;9;0;0;3;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;;103447;0;0;0;0;0;0;0;0;0;0;8;2;3;0;0;2;9;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;;807717;3;0;3;0;0;9;0;9;0;0;0;2;0;0;2;0;0;0;0;0;0;0
+otro;;200786;2;2;2;0;0;0;0;0;0;0;3;3;3;0;0;3;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;;400039;0;0;0;0;0;0;0;0;0;0;0;2;0;2;3;3;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;;116135;0;0;0;0;0;0;0;0;0;0;3;2;9;0;0;9;0;0;0;0;0;0
+otro;;202658;0;0;0;0;0;0;0;0;0;0;0;2;9;0;0;3;0;0;0;0;0;0
+hacer seguimiento generacion anormal de gases;;202658;0;0;0;0;0;0;0;0;0;0;0;2;9;0;0;3;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;;116136;3;0;3;0;0;0;0;0;0;0;2;3;0;0;0;9;0;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;;809365;0;0;0;0;0;9;0;2;2;0;2;2;0;0;0;3;0;3;3;3;3;0
+otro;;2003341;7;7;7;0;7;8;0;8;0;0;2;2;9;0;0;0;0;0;0;0;0;0
+otro;;111973;0;0;0;0;0;0;8;8;0;0;8;8;8;8;0;8;8;0;0;1;0;1
+otro;;111973;0;0;0;0;0;0;8;8;0;0;8;8;8;8;0;8;8;0;0;1;0;1
+otro;;111973;0;0;0;0;0;0;8;8;0;0;8;8;8;8;0;8;8;0;0;1;0;1
+otro;;112113;0;0;0;0;0;0;0;0;0;0;8;5;0;0;0;0;0;0;0;1;0;1
+realizar muestreo-analisis fsco-qco oltc;;202719;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0
+realizar secado oltc;;111078;0;0;0;0;0;0;0;2;2;0;0;0;0;0;0;0;0;0;0;1;0;1
+realizar muestreo-analisis fsco-qco oltc;;133031;0;0;0;0;0;0;0;0;0;0;2;5;9;0;0;0;0;0;0;1;1;0
+realizar muestreo-analisis fsco-qco oltc;;112119;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;2;0
+realizar secado oltc;;112119;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1
+realizar muestreo-analisis fsco-qco oltc;;807833;0;0;0;0;0;9;0;9;0;0;0;5;9;0;0;8;0;2;2;1;2;0
+realizar secado oltc;;100008;0;0;0;0;0;0;0;0;0;0;8;5;9;0;0;0;9;0;0;1;1;0
+realizar secado oltc;;136773;0;0;0;0;0;2;0;2;0;0;0;5;9;0;0;0;0;3;0;1;0;2
+realizar muestreo-analisis fsco-qco oltc;;300091;0;0;0;0;0;0;0;0;0;0;8;5;0;0;0;8;9;0;0;1;1;0
+realizar muestreo-analisis fsco-qco oltc;;301716;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;8;0;3;3;1;3;0
+realizar muestreo-analisis fsco-qco oltc;;109355;0;0;0;0;0;0;2;2;0;0;8;3;3;3;0;3;9;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;;115057;0;0;0;0;0;0;0;0;0;0;3;3;0;0;0;9;0;3;3;1;3;0
+realizar muestreo-analisis fsco-qco oltc;;115058;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;9;0;3;3;1;3;0
+otro;;807833;0;0;0;0;0;9;0;9;0;0;0;3;9;0;0;3;0;0;0;2;2;0
+otro;;201204;0;0;0;0;0;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0
+realizar secado oltc;;136588;0;0;0;0;0;0;0;2;2;0;0;3;0;0;0;3;0;0;0;0;0;0
+otro;;136588;0;0;0;0;0;0;0;2;2;0;0;3;0;0;0;3;0;0;0;0;0;0
+otro;;111078;0;0;0;0;0;0;9;9;0;0;8;8;8;8;0;8;8;0;0;2;0;2
+otro;;2005663;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;3;1;3;0
+realizar muestreo-analisis fsco-qco oltc;;300390;2;0;2;0;0;0;0;0;0;0;8;3;3;0;0;8;9;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;;111569;0;0;0;0;0;0;0;3;3;0;0;0;0;0;0;0;0;0;0;1;1;0
+realizar secado oltc;;136588;3;0;0;0;3;0;0;2;2;0;0;3;0;0;0;3;0;0;0;0;0;0
+realizar secado oltc;;136588;3;0;0;0;3;2;0;2;2;0;0;3;0;0;0;3;0;0;0;0;0;0
+cambiar silica oltc;;2005663;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;3;1;3;0
+realizar secado oltc;;136588;0;0;0;0;0;2;0;2;2;0;0;3;0;0;3;0;0;0;0;0;0;0
+otro;;115058;0;0;0;0;0;0;0;0;0;0;0;3;0;3;0;9;0;3;3;1;3;0
+otro;;109355;0;0;0;0;0;0;0;0;0;0;8;3;3;3;0;3;9;0;0;1;1;0
+cambiar silica oltc;;117273;0;0;0;0;0;0;0;0;0;0;8;2;9;2;0;0;9;0;0;0;0;0
+realizar muestreo-analisis fsco-qco oltc;;115057;0;0;0;0;0;0;0;0;0;0;3;5;0;0;0;9;0;3;3;1;3;0
+realizar muestreo-analisis fsco-qco oltc;;136773;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;3;1;3;0
