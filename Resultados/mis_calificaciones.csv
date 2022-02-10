@@ -1,0 +1,233 @@
+|Equipo|Descripción|INSP|INSP-ENF|INSP-PRO.M|INSP-M.OLTC|INSP-CUB|INSP-GAB|INSP-BUJ.TER
+0|810451|realizar calibracion termometros|9|9|9|9|9|9|
+1|810451|revisar indicador nivel de aceite|9|9|9|9|9|9|
+2|810451|hacer tratamiento metalmecanico-pintura|5||||||
+3|810451|cambiar termometro temperatura dev. at|9|9|9|9|9|9|
+4|111988|revisar borneras en indicador de nivel|5||||||
+5|111988|cambiar rele buchholz|5||||||
+6|115058|cambiar rele de sobrepresion|2||2||3|3|
+7|118424|corregir fuga de aceite valvula radiador|2||||2||
+8|109355|revisar mancha aceite rele presion subit|5||||||
+9|809372|normalizar senal disparo valvula sobrepr|2||||8||
+10|118424|corregir fuga aceite valv sobrepresion|2||||2||
+11|112136|cambiar indicador nivel de aceite|2|2|2||||
+12|109356|revisar mancha aceite valvula super filt|5||||||
+13|2000233|instalar rele de sello|5|9||||9|
+14|109355|instalar rele de sello|3||||3|9|
+15|109356|instalar rele de sello|2|2|2||3|9|
+16|109357|instalar rele de sello|2|2|2||3|9|
+17|111988|instalar rele de sello|5|||||9|
+18|112135|instalar rele de sello|5||||||
+19|112136|instalar rele de sello|2|2|2||||
+20|115104|instalar rele de sello|2|2|2||||
+21|118447|instalar rele de sello|8|8|8||8|8|
+22|201438|cambiar rele presion subita|5||||9||
+23|201582|cambiar rele presion subita|2|||2|||
+24|201585|cambiar rele presion subita|2|||2|||
+25|111566|instalar rele de sello|2|2|2|||9|
+26|111689|instalar rele de sello|2|2|2||||
+27|111690|instalar rele de sello|5|||||9|
+28|111691|instalar rele de sello|5|||||9|
+29|111966|instalar rele de sello|5|||||9|
+30|111989|instalar rele de sello|5|||||9|
+31|400039|cambio termometro alta temp. devanado|3||||9||
+32|100008|cambiar silica gel reactor linea banadia|5|9|||||
+33|111988|montar valvula alivio de presion|2||||||
+34|111988|desmontar valvula alivio de presion|2||||||
+35|112135|corregir goteo valvula drenaje conservad|5||||||
+36|200203|cambiar valvula alivio presion|2|||2|||
+37|109355|cambiar silica gel|5||||||
+38|109356|cambiar silica gel|5||||||
+39|109357|cambiar silica gel|2|2|2||||
+40|202718|hacer cambio de indicador nivel oltc fb|5||||9||
+41|2000407|revisar alarma presente, low level ug1|2|9|2||8||
+42|117274|cambiar indicador de nivel de aceite|2|||||9|
+43|111105|cambiar diafragma|2||2||8||
+44|100008|realizar secado de aislamientos en linea|2|9|2|||9|
+45|200597|secado en linea aislamientos - oltc|5||||9||
+46|202718|secado en linea aislamientos - oltc|5||||9||
+47|201438|realiza cambio de rele presion subita|5||||9||
+48|201582|realiza cambio de rele presion subita|2|||2|||
+49|201585|realiza cambio de rele presion subita|2|||2|||
+50|808997|cambiar medidor nivel de aceite|2||||2||
+51|201438|cambiar borneras de corriente atr1|2|2|||||
+52|100008|instalar trampa de gases rele bucholtz|5|9||||9|
+53|2000407|revisar rele disparo buchholz|2|9|2||8||
+54|200203|revisar falla protec mecanica oltc|2||2||||
+55|301717|cambiar silica gel sucre atr 1 rv|2|||2|3||
+56|809372|cambiar valvula de sobrepresion|2||2||||
+57|810050|cambiar silica gel del t-tgj04|2|||2|8||
+58|400039|secado en linea aislamientos - oltc|3||||3||
+59|109355|cambiar cableado y flexiconduit|3|3|3||3|9|
+60|109356|cambiar cableado y flexiconduit|2|2|2|||9|
+61|109357|cambiar cableado y flexiconduit|2|2|2||3|9|
+62|123178|revisar alarma rele buchholz|2||||||
+63|809372|patronar termometros t-sac02|2||2||||
+64|810451|realizar tratamiento metalmecanico|3||||8||
+65|119040|cambiar rele presion subita|5||||9||
+66|119040|cambiar temporizador filtro en linea|5||||9||
+67|111073|instalar tuberia valvula sobreprresion|2|2|2||||
+68|118435|cambiar indicador de nivel aceite|2||2|||9|
+69|123178|cambiar indicador de nivel aceite|2||2|||9|
+70|123178|cambiar rele buchholz|2||2|||9|
+71|123184|revisar bajo aislamiento disparo alivio|2|8|2||8|8|
+72|400039|hacer cambio de indicador temperatura|3||||3||
+73|400039|hacer cambio de indicador temperatura|3||||3||
+74|400039|hacer cambio de indicador temperatura|3||||3||
+75|400039|revisar bajo aislamiento disparo alivio|3||||3||
+76|810050|cambiar valv. sobrepresion t-tgj04|2||2||3||
+77|810050|cambiar termometro tem aceite|2||2||3||
+78|100008|evaluar cambio indicador  tempe|5|9||||9|
+79|109355|cambiar silical gel|3||||3|9|
+80|109356|cambiar silica gel|2|2|2||3|9|
+81|109357|cambiar silica gel|2|2|2||3|9|
+82|111105|revisar/cambiar rele buchoolz|2||2||8||
+83|132503|cambiar borneras protecciones mecanicas|2|9|2|||9|
+84|201438|desconectar disparo rele 63|5||||9||
+85|201585|desconectar disparo rele 63|2|||2|||
+86|400039|cambiar valvula d alivio (sobre-presion)|2||2|3|3||
+87|123178|cambiar silica r22mc-fase c|2||||||
+88|123181|cambiar silica r23mc-reserva|2||||||
+89|201438|revisar rele de presion subita trafo c|2||2||||
+90|201582|revisar rele de presion subita trafo b|2|||2|||
+91|201585|revisar rele de presion subita trafo a|2||2||||
+92|119040|revisar funcionamiento rele de sello|5||||9||
+93|118423|corregir fuga aceite valv sobrepresion|5|||||9|
+94|118423|corregir fuga de aceite tuberia bucholzt|5|||||9|
+95|118423|corregir fuga de aceite tuberia bucholzt|5|||||9|
+96|203670|revisar/corregir bajo aislamiento|2||2|||9|
+97|2010237|garant corregir senal bajo aislamiento|2|9|2|||8|
+98|111966|cambiar deshumificador de silica|5|||||9|
+99|200597|cambio del rele buchholz|2||2||||
+100|200548|cambiar indicador de nivel oltc|2||2||||
+101|201585|revisar aislami. cable protecc. mecanica|2||2||||
+102|200597|cambiar indicador de temperatra devanado|2||2||||
+103|2011679|garant corregir senal bajo aislamiento|2|9|2|||8|
+104|201582|corregir fuga termometro sis calisto|2||2||||
+105|201582|revisar  indicador presion filtro linea|2||2||||
+106|119040|cambiar rele presion subita|2||2||||
+107|2005218|revisar falla supervision bolsa rb500-rv|2||2|||9|
+108|100008|corregir senalizacion rele bucholz r120|2|9|2|||9|
+109|2000236|cambiar rele buchholz|2|9|2|||9|
+110|109358|cambiar indicador de nivel|2|8|2||3|8|
+111|109358|cambiar rele de presion subita|2|8|2||3|8|
+112|132503|corregir fuga aceite buchholz|2|9|2|||9|
+113|2000407|cambiar conexion cable por barras|5|9|||8||
+114|808997|corregir fuga aceite valvula de alivio|2||||2||
+115|112135|cambiar rele buchholz|2||2|||9|
+116|133034|cambiar medidir temp. devanado reac-a|2|9|2|||9|
+117|111691|corregir fuga de aceite rele buchholz|5|||||9|
+118|810050|cambiar silica t-tgj04|2||2||3||
+119|117272|cambiar rele presion subita|2|9|2||3|9|
+120|117273|cambiar rele presion subita|2|9|2|||9|
+121|117274|cambiar relle presion subita|2|9|2|||9|
+122|119040|cambiar deshumificador silica|2||2||||
+123|2005218|cambiar tuberia colector gas|2||2|||9|
+124|111689|corregir fuga aceite valvula de muestreo|2|2||||9|
+125|111691|corregir fuga aceite valvula de muestreo|5|||||9|
+126|111966|corregir fuga aceite valvula radiador|5|||||9|
+127|111691|cambiar medidor de temperatura|5|||||9|
+128|2000407|cambiar controlador temperatura|5|9|||8||
+129|119040|revisar alarma alta presion del filtro|2||2||||
+130|111566|corregir fuga de aceite indicador nivel|3||||3|9|
+131|111989|corregir fuga aceite rele sobrepresion|2||2||3|9|
+132|111988|revisar rele sobre presion|5|||||9|
+133|111988|revisar rele buchholz cambiar cableado|5|||||9|
+134|117259|cambiar rele de p subita|2|2||||9|
+135|117259|cambiar diafragma en tanque conservador|2|2||||9|
+136|117259|revisar y conectar disparo p subita|2|2||||9|
+137|2009377|garantia cambiar rele buchholz fase c|2||2|||8|
+138|2009378|garantia cambiar indicador nivel fase rv|2|9|2||9|8|
+139|112245|revisar proteciones mecanicas|2||2|||9|
+140|112246|revisar rele buchholtz fase c|2||2|||9|
+141|123172|revisar rele presion subita fase b|2||2|||9|
+142|201114|cambiar silica atr 1 fase a|3||3||||
+143|201117|cambiar silica atr 1 fase b|3||3||||
+144|111566|realizar megger protecciones mecanicas|5|||||9|
+145|111989|realizar megger protecciones mecanicas|5|||||9|
+146|115058|realizar megger protecciones mecanicas|3||3||9||
+147|115104|realizar megger proteccones mecanicas|2|2|2||||
+148|111988|cambiar rele buchholz|2||2|||9|
+149|112135|aplicar sikaflex 1a protecciones mecanic|2||2|||9|
+150|112136|aplicar sikaflex 1a protecciones mecanic|2|2|2||||
+151|119040|aplicar sikaflex 1a protecciones mecanic|2||2||||
+152|123183|aplicar sikaflex 1a protecciones mecanic|2||2|||9|
+153|201438|aplicar sikaflex 1a protecciones mecanic|2|2|||||
+154|201582|aplicar sikaflex 1a protecciones mecanic|2||2||||
+155|201585|aplicar sikaflex 1a protecciones mecanic|2||2||||
+156|2009377|aplicar sikaflex 1a protecciones mecanic|2||2|||8|
+157|2009378|aplicar sikaflex 1a protecciones mecanic|2|9|2||9|8|
+158|111566|aplicar sikaflex 1a protecciones mecanic|3||||3|9|
+159|111689|aplicar sikaflex 1a protecciones mecanic|2|2||||9|
+160|111690|aplicar sikaflex 1a protecciones mecanic|5|||||9|
+161|111691|aplicar sikaflex 1a protecciones mecanic|5|||||9|
+162|111966|aplicar sikaflex 1a protecciones mecanic|5|||||9|
+163|111988|aplicar sikaflex protecciones mecanic rv|2||2|||9|
+164|111989|aplicar sikaflex 1a protecciones mecanic|2||2||3|9|
+165|112245|aplicar sikaflex 1a protecciones mecanic|2||2|||9|
+166|112246|aplicar sikaflex 1a protecciones mecanic|2||2|||9|
+167|117258|aplicar sikaflex 1a protecciones mecanic|2||2|||9|
+168|117259|aplicar sikaflex 1a protecciones mecanic|2|2||||9|
+169|123172|aplicar sikaflex 1a protecciones mecanic|2||2|||9|
+170|133034|aplicar sikaflex 1a protecciones mecanic|2|9|2|||9|
+171|2000236|aplicar sikaflex 1a protecciones mecanic|2|9|2|||9|
+172|2009683|aplicar sikaflex 1a protecciones mecanic|2|9|2|||8|
+173|2009685|aplicar sikaflex 1a protecciones mecanic|2|9|2|||8|
+174|109355|aplicar sikaflex 1a protecciones mecanic|3|3|3||3|9|
+175|109356|aplicar sikaflex 1a protecciones mecanic|2|2|2|||9|
+176|109357|aplicar sikaflex 1a protecciones mecanic|2|2||||9|
+177|111073|aplicar sikaflex 1a protecciones mecanic|2|2|2||||
+178|111105|aplicar sikaflex 1a protecciones mecanic|2||2||8||
+179|115104|aplicar sikaflex 1a protecciones mecanic|2|2|2||||
+180|117273|aplicar sikaflex 1a protecciones mecanic|2|2|2|||9|
+181|117274|aplicar sikaflex 1a protecciones mecanic|2||2|||9|
+182|118423|aplicar sikaflex 1a protecciones mecanic|5|||||9|
+183|118424|aplicar sikaflex 1a protecciones mecanic|2||||2||
+184|118425|aplicar sikaflex 1a protecciones mecanic|5|||||9|
+185|132503|aplicar sikaflex 1a protecciones mecanic|2|9|2|||9|
+186|200203|aplicar sikaflex 1a protecciones mecanic|2|||2|||
+187|200548|aplicar sikaflex 1a protecciones mecanic|2||2||||
+188|200597|aplicar sikaflex 1a protecciones mecanic|2||2||||
+189|201114|aplicar sikaflex 1a protecciones mecanic|3||3||||
+190|201117|aplicar sikaflex 1a protecciones mecanic|3||3||||
+191|201232|aplicar sikaflex 1a protecciones mecanic|5||||8|8|
+192|2000233|aplicar sikaflex 1a protecciones mecanic|5|9||||9|
+193|117274|corregir fuga aceite valvulas radiador|2||2|||9|
+194|2009685|revisar disparo alivio presion erroneo|2|9|2|||8|
+195|2009685|garant conectar disparo y alarma presion|2|9|2|||8|
+196|111989|revision y conexion disparo pres. subita|2||2||3|9|
+197|111989|cambio de rele de presion subita|2||2||3|9|
+198|118435|cambiar silica gel|2||2|||9|
+199|123181|cambiar silica gel|2||||||
+200|123181|cambiar rele buchholz|2||2|||9|
+201|202718|actualizar informacion de aislamiento|2||2||9||
+202|118425|cambiar regenerador de silica gel|2||2||3|9|
+203|117272|corregir fuga de aceite val bucholz|2|9|2||3|9|
+204|118423|cambiar regenerador de silica gel|2||2|||9|
+205|118424|cambiar regenerador de silica gel|2||2|||9|
+206|810550|cambiar silica gel t-tbs-04 reserva|5|9|8||8||
+207|810550|cambiar deposito silica t-tbs04 reserva|5|9|8||8||
+208|111073|cambiar regenerador de silica gel|2|3|||2|9|
+209|2011679|garantia cambiar rele buchholz|2|9|2|||8|
+210|118424|corregir fuga de aceite tuberia bucholz|2||2|||9|
+211|2000407|cambiar aspa motoventildor #36 t-tgj01|5|9|||8||
+212|2000407|cambiar aspa motoventildor #16 t-tgj01|5|9|||8||
+213|112137|cambiar protec mecanicas|2|2|2||3|9|
+214|111988|cambiar rele buchholz|2||2|||9|
+215|111989|cambio de rele de presion subita|2||2||3|9|
+216|123181|cambiar rele buchholz|2||2|||9|
+217|2000236|cambiar rele buchholz|2|9|2|||9|
+218|109355|corregir ingreso humedad termometro|3|3|3||3|9|
+219|109356|cambiar manguera de purga rele buchholz|2|2|2|||9|
+220|112135|actualizar valores de aislamiento|2||2|||9|
+221|111566|aplicar sikaflex 1a protecciones mecanic|3||||3|9|
+222|117259|cambiar diafragma en tanque conservador|2|2||||9|
+223|201114|cambiar silica gel|3||3||||
+224|109355|cambiar indicador de nivel aceite|3|3|3||3|9|
+225|115104|cambiar termometro de aceite|2|2|2||||
+226|112137|cambiar gabinete de control reactor rv|2|2|2||3|9|
+227|120116|cambiar silica|3||3|||9|
+228|810451|cambiar silica gel|3||||8||
+229|109355|cambiar silica|3|3|3||3|9|
+230|109356|cambiar silica|2|2|2|||9|
+231|109357|cambiar silica|2|2||||9|
